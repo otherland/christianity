@@ -1,0 +1,86 @@
+[input]
+html_selector = "main"
+base_directory = "/Users/tomyates/niche_sites/sites/christianity/output"
+
+[[input.files]]
+path = "pages/about.html"
+url = "/pages/about.html"
+title = "About Us"
+
+[[input.files]]
+path = "pages/contact.html"
+url = "/pages/contact.html"
+title = "Contact Us"
+
+[[input.files]]
+path = "top-bible-books-for-strengthening-faith-during-struggles.html"
+url = "/top-bible-books-for-strengthening-faith-during-struggles.html"
+title = "Top Bible Books for Strengthening Faith During Struggles"
+
+[[input.files]]
+path = "top-bible-study-workbooks-for-adults-enhance-your-spiritual-growth.html"
+url = "/top-bible-study-workbooks-for-adults-enhance-your-spiritual-growth.html"
+title = "Top Bible Study Workbooks for Adults: Enhance Your Spiritual Growth"
+
+[[input.files]]
+path = "top-christian-audio-books-discover-the-best-titles-for-spiritual-growth-and-inspiration.html"
+url = "/top-christian-audio-books-discover-the-best-titles-for-spiritual-growth-and-inspiration.html"
+title = "Top Christian Audio Books: Discover the Best Titles for Spiritual Growth and Inspiration"
+
+[[input.files]]
+path = "ultimate-bible-study-guides-by-book-enhance-your-understanding-and-faith.html"
+url = "/ultimate-bible-study-guides-by-book-enhance-your-understanding-and-faith.html"
+title = "\\\"Ultimate Bible Study Guides by Book: Enhance Your Understanding and Faith\\\""
+
+[[input.files]]
+path = "unlocking-the-power-of-spiritual-growth-with-a-study-bible-essential-insights-for-christian-readers.html"
+url = "/unlocking-the-power-of-spiritual-growth-with-a-study-bible-essential-insights-for-christian-readers.html"
+title = "Unlocking the Power of Spiritual Growth with a Study Bible: Essential Insights for Christian Readers"
+
+[[input.files]]
+path = "unveiling-the-biblical-significance-of-the-number-2-a-comprehensive-guide-for-christian-readers.html"
+url = "/unveiling-the-biblical-significance-of-the-number-2-a-comprehensive-guide-for-christian-readers.html"
+title = "Unveiling the Biblical Significance of the Number 2: A Comprehensive Guide for Christian Readers"
+
+[[input.files]]
+path = "unveiling-the-power-of-bible-study-fellowship-bsf-a-comprehensive-guide-to-spiritual-growth.html"
+url = "/unveiling-the-power-of-bible-study-fellowship-bsf-a-comprehensive-guide-to-spiritual-growth.html"
+title = "Unveiling the Power of Bible Study Fellowship (BSF): A Comprehensive Guide to Spiritual Growth"
+
+[[input.files]]
+path = "7-steps-to-effectively-read-the-bible-in-a-year-with-a-printable-plan.html"
+url = "/7-steps-to-effectively-read-the-bible-in-a-year-with-a-printable-plan.html"
+title = "7 Steps to Effectively Read the Bible in a Year with a Printable Plan"
+
+[[input.files]]
+path = "essential-tips-for-effective-time-management-boost-productivity-and-reduce-stress.html"
+url = "/essential-tips-for-effective-time-management-boost-productivity-and-reduce-stress.html"
+title = "Essential Tips for Effective Time Management: Boost Productivity and Reduce Stress"
+
+[[input.files]]
+path = "essential-bible-chapters-for-beginners-explore-the-best-parts-of-the-new-testament.html"
+url = "/essential-bible-chapters-for-beginners-explore-the-best-parts-of-the-new-testament.html"
+title = "Essential Bible Chapters for Beginners: Explore the Best Parts of the New Testament"
+
+[[input.files]]
+path = "ultimate-bible-in-a-year-plan-2024-dive-deep-into-gods-word-with-a-4-year-reading-journey.html"
+url = "/ultimate-bible-in-a-year-plan-2024-dive-deep-into-gods-word-with-a-4-year-reading-journey.html"
+title = "Ultimate Bible in a Year Plan 2024: Dive Deep into God's Word with a 4-Year Reading Journey"
+
+[[input.files]]
+path = "ultimate-guide-how-to-conduct-a-bible-character-study-tips-and-insights-for-deep-dive-analysis.html"
+url = "/ultimate-guide-how-to-conduct-a-bible-character-study-tips-and-insights-for-deep-dive-analysis.html"
+title = "Ultimate Guide: How to Conduct a Bible Character Study- Tips and Insights for Deep Dive Analysis"
+
+[[input.files]]
+path = "ultimate-guide-reading-the-bible-in-6-months-with-a-structured-plan.html"
+url = "/ultimate-guide-reading-the-bible-in-6-months-with-a-structured-plan.html"
+title = "Ultimate Guide: Reading the Bible in 6 Months with a Structured Plan"
+
+[[input.files]]
+path = "exploring-small-group-bible-studies.html"
+url = "/exploring-small-group-bible-studies.html"
+title = "Exploring Small Group Bible Studies"
+
+[output]
+excerpts_per_result = 1

@@ -3,27 +3,79 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Christianity - Authors</title>
+    <title>Bible Based Living - Authors</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=9" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Serif+Pro:400,700">
-    <link rel="stylesheet" type="text/css" href="file:///Users/tomyates/niche_sites/sites/christianity/output/theme/css/main.css">
+    <link rel="stylesheet" type="text/css" href="christianity-e51.pages.dev/theme/css/main.css">
+    <link rel="stylesheet" type="text/css" href="christianity-e51.pages.dev/css/custom.css">
+    <!-- <base target="_blank"> -->
+    <link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
+
 </head>
 <body itemscope itemtype="http://schema.org/Blog">
-<header class="site-header">
-    <a href="file:///Users/tomyates/niche_sites/sites/christianity/output">
-    </a>
-    <h1 itemprop="name"><a href="file:///Users/tomyates/niche_sites/sites/christianity/output"></a></h1>
-</header>
-    <section class="main-content">
-    <h2>Authors on Christianity</h2>
+    <div class="overlay"></div>
+    <header class="site-header">
+        <a href="christianity-e51.pages.dev">
+        </a>
+        <h1 itemprop="name"><a href="christianity-e51.pages.dev">Bible Based Living</a></h1>
+        <nav>
+            <ul>
+                <li><a href="christianity-e51.pages.dev">Home</a></li>
+                <li><a href="christianity-e51.pages.dev/categories">Read</a></li>
+                <li><a href="christianity-e51.pages.dev/pages/about.html">About</a></li>
+                <li><a href="christianity-e51.pages.dev/pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <button class="drawer-toggle" aria-label="Toggle navigation menu"></button>
+        <div class="search_box">
+        <input placeholder="Search" data-stork="sitesearch" class="sitesearch"/>
+        <div data-stork="sitesearch-output"></div>
+        </div>
+    </header>
+
+    <div class="drawer">
+        <nav>
+            <ul>
+                <li><a href="christianity-e51.pages.dev">Home</a></li>
+                <li><a href="christianity-e51.pages.dev/categories">Read</a></li>
+                <li><a href="christianity-e51.pages.dev/pages/about.html">About</a></li>
+                <li><a href="christianity-e51.pages.dev/pages/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <main class="main-content">
+    <h2>Authors on Bible Based Living</h2>
     <ul>
-        <li><a href="file:///Users/tomyates/niche_sites/sites/christianity/output/author/ai-author.html">AI Author</a> (4)</li>
+        <li><a href="christianity-e51.pages.dev/author/tom.html">Tom</a> (14)</li>
     </ul>
-    </section>
+    </main>
 
 <footer class="site-footer">
-    <p>&copy; AI Author </p>
+    <p>&copy; Tom </p>
 </footer></body>
+
+<script>
+    const drawerToggle = document.querySelector('.drawer-toggle');
+    const drawer = document.querySelector('.drawer');
+    const overlay = document.querySelector('.overlay');
+  
+    drawerToggle.addEventListener('click', () => {
+      drawer.classList.toggle('open');
+      overlay.classList.toggle('active');
+    });
+  
+    overlay.addEventListener('click', () => {
+      drawer.classList.remove('open');
+      overlay.classList.remove('active');
+    });
+  </script>
+  <script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+  <script>
+      stork.register("sitesearch", "christianity-e51.pages.dev/search-index.st", {
+        resultNoun: { singular: "article", plural: "articles" }
+      });
+  </script>
 </html>
