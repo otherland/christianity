@@ -281,3 +281,9 @@ h3.related-articles-header {
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
 }
+
+@media screen and (min-width: 54em) {
+    .site-header {
+        padding: 1rem 6rem 3rem;
+    }
+}

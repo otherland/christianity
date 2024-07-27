@@ -68,7 +68,7 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 AUTHOR_URL = 'author/{slug}.html' 
 AUTHOR_SAVE_AS = 'author/{slug}.html' 
 
-AUTHOR = 'Tom'
+AUTHOR = 'Bible Based Living'
 
 # PLUGINS = ['more_categories','seo']
 
