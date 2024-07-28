@@ -135,7 +135,7 @@ def find_relevant_links(markdown_files, keywords, num_links=10):
     logging.info(f"Found relevant links for {len(relevant_links)} files")
     return relevant_links
 
-def create_seo_optimized_links(content, relevant_links, max_links=5):
+def create_seo_optimized_links(content, relevant_links, max_links=3):
     link_count = 0
     used_anchors = set()
     

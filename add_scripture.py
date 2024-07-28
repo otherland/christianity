@@ -28,6 +28,11 @@ def process_markdown_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     
+    # Check if the content already contains links
+    if '[' in content and '](' in content:
+        print(f"Skipping {file_path} as it already contains links")
+        return
+
     bible_books = get_bible_books()
     # Pattern to match Bible references not already in a link
     pattern = rf'\b({bible_books})\s(\d+):(\d+(?:-\d+)?)\b(?!\])'
@@ -45,7 +50,7 @@ def process_markdown_folder(folder_path):
                 print(f"Processing {file_path}")
                 try:
                     process_markdown_file(file_path)
-                    print(f"Successfully added hyperlinks to {file_path}")
+                    print(f"Successfully processed {file_path}")
                 except Exception as e:
                     print(f"Error processing {file_path}: {str(e)}")
 
