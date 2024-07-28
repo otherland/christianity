@@ -1,5 +1,5 @@
 ---
-Image: images/Create a f-1713434974.png
+Image: images/Create a f-1713434974.jpg
 Title: Discover the Longest Chapter in the Bible and Its Significance
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

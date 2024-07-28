@@ -1,5 +1,5 @@
 ---
-Image: images/Imagine an-1715861398.png
+Image: images/Imagine an-1715861398.jpg
 Title: Seeking God's Blessings in Love: Powerful Prayers For Him
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

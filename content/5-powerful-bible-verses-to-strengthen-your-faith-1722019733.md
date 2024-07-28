@@ -1,5 +1,5 @@
 ---
-Image: images/Depict a s-1713422974.png
+Image: images/Depict a s-1713422974.jpg
 Title: 5 Powerful Bible Verses to Strengthen Your Faith
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

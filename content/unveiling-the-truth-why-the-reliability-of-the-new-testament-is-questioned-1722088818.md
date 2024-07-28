@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1713369307.png
+Image: images/Create an -1713369307.jpg
 Title: Unveiling the Truth: Why the Reliability of the New Testament is Questioned
 Date: 2024-07-27
 Category: Family/Christian Family

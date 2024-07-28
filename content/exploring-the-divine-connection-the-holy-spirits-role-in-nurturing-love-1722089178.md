@@ -1,5 +1,5 @@
 ---
-Image: images/Create a d-1717071566.png
+Image: images/Create a d-1717071566.jpg
 Title: Exploring the Divine Connection: The Holy Spirit's Role in Nurturing Love
 Date: 2024-07-27
 Category: The Bible/Scriptures And Teachings

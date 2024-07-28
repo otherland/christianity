@@ -1,5 +1,5 @@
 ---
-Image: images/Create a b-1715874831.png
+Image: images/Create a b-1715874831.jpg
 Title: Praying for Grief: How to Support Those Who Have Experienced Loss
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

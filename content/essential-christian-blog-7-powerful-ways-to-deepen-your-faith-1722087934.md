@@ -1,5 +1,5 @@
 ---
-Image: images/Craft an i-1715874737.png
+Image: images/Craft an i-1715874737.jpg
 Title: Essential Christian Blog: 7 Powerful Ways to Deepen Your Faith
 Date: 2024-07-27
 Category: Theology/The Divinity Of Jesus

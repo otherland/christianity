@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1713422844.png
+Image: images/Create an -1713422844.jpg
 Title: 10 Fascinating Facts About Jesus Christ: A Comprehensive Guide for Christian Readers
 Date: 2024-07-26
 Category: Theology/The Divinity Of Jesus

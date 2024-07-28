@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1715861117.png
+Image: images/Create an -1715861117.jpg
 Title: 7 Essential Steps to Grow Your Faith Stronger
 Date: 2024-07-27
 Category: Cults and Religions/Understanding Other Religions

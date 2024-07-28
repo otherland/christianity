@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1713369276.png
+Image: images/Create an -1713369276.jpg
 Title: Ultimate Guide to Small Group Bible Studies: Engage, Grow, and Connect
 Date: 2024-07-27
 Category: The Bible/Bible Study

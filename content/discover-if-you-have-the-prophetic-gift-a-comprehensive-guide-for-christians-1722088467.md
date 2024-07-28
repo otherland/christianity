@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1712155564.png
+Image: images/Create an -1712155564.jpg
 Title: Discover if You Have the Prophetic Gift: A Comprehensive Guide for Christians
 Date: 2024-07-27
 Category: Spiritual Life/Spiritual Gifts

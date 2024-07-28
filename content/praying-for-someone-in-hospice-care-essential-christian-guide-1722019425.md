@@ -1,5 +1,5 @@
 ---
-Image: images/Illustrate-1713426262.png
+Image: images/Illustrate-1713426262.jpg
 Title: Praying for Someone in Hospice Care: Essential Christian Guide
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1711894990.png
+Image: images/Create an -1711894990.jpg
 Title: How to Determine If You Are a True Christian: Essential Signs to Look For
 Date: 2024-07-27
 Category: Salvation/Becoming Christian

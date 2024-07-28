@@ -1,5 +1,5 @@
 ---
-Image: images/Create a f-1717068237.png
+Image: images/Create a f-1717068237.jpg
 Title: Ultimate Guide to Understanding Christianity: Is It the True Religion?
 Date: 2024-07-27
 Category: Family/Christian Family

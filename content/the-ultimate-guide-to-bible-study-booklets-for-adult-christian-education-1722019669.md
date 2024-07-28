@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1717068372.png
+Image: images/Create an -1717068372.jpg
 Title: The Ultimate Guide to Bible Study Booklets for Adult Christian Education
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

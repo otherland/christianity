@@ -1,5 +1,5 @@
 ---
-Image: images/Create a b-1715874017.png
+Image: images/Create a b-1715874017.jpg
 Title: Understanding the Difference Between Water Baptism and Spirit Baptism: A Comprehensive Guide for Christian Believers
 Date: 2024-07-27
 Category: The Bible/Scriptures And Teachings

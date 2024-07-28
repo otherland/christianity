@@ -1,5 +1,5 @@
 ---
-Image: images/Illustrate-1712156995.png
+Image: images/Illustrate-1712156995.jpg
 Title: Discover the Importance of a Printable Spiritual Gifts Test for Youth in Christian Ministry
 Date: 2024-07-27
 Category: Spiritual Life/Spiritual Gifts

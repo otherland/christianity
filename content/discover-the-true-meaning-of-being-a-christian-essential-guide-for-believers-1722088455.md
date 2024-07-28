@@ -1,5 +1,5 @@
 ---
-Image: images/A religiou-1717068193.png
+Image: images/A religiou-1717068193.jpg
 Title: Discover the True Meaning of Being a Christian: Essential Guide for Believers
 Date: 2024-07-27
 Category: Theology/The Divinity Of Jesus

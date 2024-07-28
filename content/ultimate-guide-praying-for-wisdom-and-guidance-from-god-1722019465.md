@@ -1,5 +1,5 @@
 ---
-Image: images/Create a f-1715874598.png
+Image: images/Create a f-1715874598.jpg
 Title: Ultimate Guide: Praying for Wisdom and Guidance from God
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

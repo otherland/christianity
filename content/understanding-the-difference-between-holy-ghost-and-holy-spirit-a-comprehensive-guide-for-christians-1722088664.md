@@ -1,5 +1,5 @@
 ---
-Image: images/Generate a-1715860760.png
+Image: images/Generate a-1715860760.jpg
 Title: Understanding the Difference Between Holy Ghost and Holy Spirit: A Comprehensive Guide for Christians
 Date: 2024-07-27
 Category: the Holy Spirit/Work Of The Holy Spirit

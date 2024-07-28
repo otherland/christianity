@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1712157160.png
+Image: images/Create an -1712157160.jpg
 Title: Unveiling the Power of Bible Study Fellowship : A Comprehensive Guide to Spiritual Growth
 Date: 2024-07-22
 Category: The Bible/Bible Study

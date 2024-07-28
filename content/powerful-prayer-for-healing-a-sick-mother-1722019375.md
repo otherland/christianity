@@ -1,5 +1,5 @@
 ---
-Image: images/Generate a-1713425214.png
+Image: images/Generate a-1713425214.jpg
 Title: Powerful Prayer for Healing a Sick Mother
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

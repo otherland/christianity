@@ -1,5 +1,5 @@
 ---
-Image: images/Create a v-1715861781.png
+Image: images/Create a v-1715861781.jpg
 Title: The Best Bible Book to Start With: A Comprehensive Guide for Christian Readers
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

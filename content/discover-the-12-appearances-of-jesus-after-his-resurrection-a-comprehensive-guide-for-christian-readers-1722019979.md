@@ -1,5 +1,5 @@
 ---
-Image: images/Create a b-1717071646.png
+Image: images/Create a b-1717071646.jpg
 Title: Discover the 12 Appearances of Jesus After His Resurrection: A Comprehensive Guide for Christian Readers
 Date: 2024-07-26
 Category: Theology/The Divinity Of Jesus

@@ -1,5 +1,5 @@
 ---
-Image: images/Create a r-1715860564.png
+Image: images/Create a r-1715860564.jpg
 Title: Pray for Help at Work: Effective Christian Strategies for Success
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

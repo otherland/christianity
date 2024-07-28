@@ -1,5 +1,5 @@
 ---
-Image: images/Generate a-1713426324.png
+Image: images/Generate a-1713426324.jpg
 Title: Discover the Meaning of Being a Christian: Ultimate Guide for Believers
 Date: 2024-07-27
 Category: Family/Christian Family

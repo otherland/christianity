@@ -1,5 +1,5 @@
 ---
-Image: images/Create a s-1713425416.png
+Image: images/Create a s-1713425416.jpg
 Title: Ultimate Guide: Understanding the True Meaning of Being a Christian
 Date: 2024-07-27
 Category: Salvation/Becoming Christian

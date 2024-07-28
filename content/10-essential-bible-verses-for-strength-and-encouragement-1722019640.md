@@ -1,5 +1,5 @@
 ---
-Image: images/An album c-1713370811.png
+Image: images/An album c-1713370811.jpg
 Title: 10 Essential Bible Verses for Strength and Encouragement
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

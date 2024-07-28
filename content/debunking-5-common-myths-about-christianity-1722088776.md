@@ -1,5 +1,5 @@
 ---
-Image: images/Fantasy Ar-1713426226.png
+Image: images/Fantasy Ar-1713426226.jpg
 Title: Debunking 5 Common Myths About Christianity
 Date: 2024-07-27
 Category: Family/Christian Family

@@ -1,5 +1,5 @@
 ---
-Image: images/Craft an i-1712065245.png
+Image: images/Craft an i-1712065245.jpg
 Title: Mapping the Travels of Jesus: A Comprehensive Journey through His Life and Ministry
 Date: 2024-07-27
 Category: People in the Bible/Jesus Lost Years

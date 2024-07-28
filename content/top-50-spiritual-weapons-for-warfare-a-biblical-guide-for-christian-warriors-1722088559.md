@@ -1,5 +1,5 @@
 ---
-Image: images/Create a f-1713425320.png
+Image: images/Create a f-1713425320.jpg
 Title: Top 50 Spiritual Weapons for Warfare: A Biblical Guide for Christian Warriors
 Date: 2024-07-27
 Category: Spiritual Life/Spiritual Gifts

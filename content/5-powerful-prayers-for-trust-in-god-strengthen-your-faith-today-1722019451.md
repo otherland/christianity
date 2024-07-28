@@ -1,5 +1,5 @@
 ---
-Image: images/Capture a -1712155599.png
+Image: images/Capture a -1712155599.jpg
 Title: 5 Powerful Prayers for Trust in God: Strengthen Your Faith Today
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

@@ -1,5 +1,5 @@
 ---
-Image: images/Generate a-1713369399.png
+Image: images/Generate a-1713369399.jpg
 Title: Christian Prayer for Anger: Discovering Peace and Patience in God's Grace
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

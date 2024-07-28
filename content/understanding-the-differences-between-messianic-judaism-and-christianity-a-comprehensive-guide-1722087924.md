@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1715861700.png
+Image: images/Create an -1715861700.jpg
 Title: Understanding the Differences Between Messianic Judaism and Christianity: A Comprehensive Guide
 Date: 2024-07-27
 Category: Theology/The Divinity Of Jesus

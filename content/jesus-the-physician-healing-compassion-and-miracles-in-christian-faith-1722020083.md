@@ -1,5 +1,5 @@
 ---
-Image: images/Create a f-1713369432.png
+Image: images/Create a f-1713369432.jpg
 Title: Jesus the Physician: Healing, Compassion, and Miracles in Christian Faith
 Date: 2024-07-26
 Category: Theology/The Divinity Of Jesus

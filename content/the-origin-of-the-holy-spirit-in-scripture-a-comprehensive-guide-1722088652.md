@@ -1,5 +1,5 @@
 ---
-Image: images/Draw an im-1712312299.png
+Image: images/Draw an im-1712312299.jpg
 Title: The Origin of the Holy Spirit in Scripture: A Comprehensive Guide
 Date: 2024-07-27
 Category: the Holy Spirit/Work Of The Holy Spirit

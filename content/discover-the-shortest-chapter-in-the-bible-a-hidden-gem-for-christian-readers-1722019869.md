@@ -1,5 +1,5 @@
 ---
-Image: images/Create a s-1715861743.png
+Image: images/Create a s-1715861743.jpg
 Title: Discover the Shortest Chapter in the Bible: A Hidden Gem for Christian Readers
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

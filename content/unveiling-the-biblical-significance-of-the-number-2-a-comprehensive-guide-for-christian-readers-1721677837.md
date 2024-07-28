@@ -1,5 +1,5 @@
 ---
-Image: images/Create a b-1715860606.png
+Image: images/Create a b-1715860606.jpg
 Title: Unveiling the Biblical Significance of the Number 2: A Comprehensive Guide for Christian Readers
 Date: 2024-07-22
 Category: The Bible/Bible Study

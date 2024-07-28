@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1712312270.png
+Image: images/Create an -1712312270.jpg
 Title: Exploring the Sacred Sites of Bethany and Jerusalem: A Christian Pilgrimage Guide
 Date: 2024-07-27
 Category: People in the Bible/Jesus Lost Years

@@ -1,5 +1,5 @@
 ---
-Image: images/Imagine a -1715874197.png
+Image: images/Imagine a -1715874197.jpg
 Title: "The Shortest Books in the Bible: Order and Analysis for Christian Readers"
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

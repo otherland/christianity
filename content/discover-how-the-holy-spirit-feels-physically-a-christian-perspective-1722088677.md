@@ -1,5 +1,5 @@
 ---
-Image: images/Create a b-1713425519.png
+Image: images/Create a b-1713425519.jpg
 Title: Discover How the Holy Spirit Feels Physically: A Christian Perspective
 Date: 2024-07-27
 Category: the Holy Spirit/Work Of The Holy Spirit

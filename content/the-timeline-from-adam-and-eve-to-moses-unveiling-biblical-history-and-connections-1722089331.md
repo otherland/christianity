@@ -1,5 +1,5 @@
 ---
-Image: images/Create an -1715860507.png
+Image: images/Create an -1715860507.jpg
 Title: The Timeline from Adam and Eve to Moses: Unveiling Biblical History and Connections
 Date: 2024-07-27
 Category: Creation/Christian Creation

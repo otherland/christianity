@@ -1,5 +1,5 @@
 ---
-Image: images/Create a B-1717071438.png
+Image: images/Create a B-1717071438.jpg
 Title: Pray for You Today: 7 Powerful Ways to Connect with God
 Date: 2024-07-26
 Category: Prayer/Christian Prayer
