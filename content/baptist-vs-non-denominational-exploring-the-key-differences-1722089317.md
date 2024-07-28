@@ -1,4 +1,5 @@
 ---
+Image: images/Create a f-1712157191.png
 Title: Baptist vs Non-Denominational: Exploring the Key Differences
 Date: 2024-07-27
 Category: Cults and Religions/Understanding Other Religions

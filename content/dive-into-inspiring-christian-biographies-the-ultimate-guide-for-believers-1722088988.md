@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1717071746.png
 Title: Dive Into Inspiring Christian Biographies: The Ultimate Guide for Believers
 Date: 2024-07-27
 Category: Salvation/Becoming Christian

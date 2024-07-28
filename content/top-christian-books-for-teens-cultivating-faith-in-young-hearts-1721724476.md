@@ -1,4 +1,5 @@
 ---
+Image: images/Create an -1717071311.png
 Title: Top Christian Books for Teens: Cultivating Faith in Young Hearts
 Date: 2024-07-23
 Category: The Bible/Bible Study

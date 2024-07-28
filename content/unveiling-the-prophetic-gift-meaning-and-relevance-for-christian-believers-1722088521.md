@@ -1,4 +1,5 @@
 ---
+Image: images/Create a b-1717068434.png
 Title: Unveiling the Prophetic Gift: Meaning and Relevance for Christian Believers
 Date: 2024-07-27
 Category: Spiritual Life/Spiritual Gifts

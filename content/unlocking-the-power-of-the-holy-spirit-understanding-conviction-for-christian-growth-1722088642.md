@@ -1,4 +1,5 @@
 ---
+Image: images/Create an -1713426381.png
 Title: Unlocking the Power of the Holy Spirit: Understanding Conviction for Christian Growth
 Date: 2024-07-27
 Category: the Holy Spirit/Work Of The Holy Spirit

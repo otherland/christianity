@@ -1,4 +1,5 @@
 ---
+Image: images/2.png
 Title: Powerful Prayers for Blessing Christian Friendships
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

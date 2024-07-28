@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1712068880.png
 Title: Unlocking the Power of the Word of Knowledge: A Comprehensive Guide for Christian Believers
 Date: 2024-07-27
 Category: Spiritual Life/Spiritual Gifts

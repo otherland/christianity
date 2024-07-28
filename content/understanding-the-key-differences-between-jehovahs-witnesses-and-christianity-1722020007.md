@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1712147085.png
 Title: Understanding the Key Differences Between Jehovah's Witnesses and Christianity
 Date: 2024-07-26
 Category: Theology/The Divinity Of Jesus

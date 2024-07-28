@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1715861485.png
 Title: Top Bible Books for Strengthening Faith During Struggles
 Date: 2024-07-22
 Category: The Bible/Bible Study

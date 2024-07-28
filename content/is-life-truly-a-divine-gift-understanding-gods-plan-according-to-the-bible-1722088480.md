@@ -1,4 +1,5 @@
 ---
+Image: images/Create a f-1713435268.png
 Title: Is Life Truly a Divine Gift? Understanding God's Plan According to the Bible
 Date: 2024-07-27
 Category: Spiritual Life/Spiritual Gifts

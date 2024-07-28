@@ -1,4 +1,5 @@
 ---
+Image: images/Scene in a-1715875060.png
 Title: 10 Uplifting Bible Verses for Men: Discover Strength and Encouragement in God's Word
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

@@ -1,4 +1,5 @@
 ---
+Image: images/Depict a s-1713422887.png
 Title: Ultimate Guide to Planning Engaging and Fruitful Bible Studies for Small Groups
 Date: 2024-07-27
 Category: The Bible/Bible Study

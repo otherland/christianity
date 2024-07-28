@@ -1,4 +1,5 @@
 ---
+Image: images/Depict a d-1715874553.png
 Title: Powerful Ways to Pray for Someone: A Christian's Guide to Intercessory Prayer
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

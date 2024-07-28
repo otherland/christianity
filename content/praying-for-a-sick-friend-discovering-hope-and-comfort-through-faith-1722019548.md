@@ -1,4 +1,5 @@
 ---
+Image: images/Create a p-1715861161.png
 Title: Praying for a Sick Friend: Discovering Hope and Comfort through Faith
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

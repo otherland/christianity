@@ -1,4 +1,5 @@
 ---
+Image: images/Depict a scene of Si-1711891997.png
 Title: Key Differences Between the Catholic and Protestant Bibles: A Comprehensive Comparison
 Date: 2024-07-27
 Category: Cults and Religions/Understanding Other Religions

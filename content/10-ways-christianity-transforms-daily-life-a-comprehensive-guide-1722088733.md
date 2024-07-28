@@ -1,4 +1,5 @@
 ---
+Image: images/Create a b-1712066681.png
 Title: 10 Ways Christianity Transforms Daily Life: A Comprehensive Guide
 Date: 2024-07-27
 Category: Family/Christian Family

@@ -1,4 +1,5 @@
 ---
+Image: images/Create a B-1715861527.png
 Title: The Ultimate Guide to the Holy Spirit: Your Helper, Teacher, and Guide
 Date: 2024-07-27
 Category: the Holy Spirit/Work Of The Holy Spirit

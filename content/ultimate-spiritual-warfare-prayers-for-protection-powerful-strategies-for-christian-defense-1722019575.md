@@ -1,4 +1,5 @@
 ---
+Image: images/Visualize -1713426292.png
 Title: Ultimate Spiritual Warfare Prayers for Protection: Powerful Strategies for Christian Defense
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

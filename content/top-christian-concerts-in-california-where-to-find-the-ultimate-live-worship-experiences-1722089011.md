@@ -1,4 +1,5 @@
 ---
+Image: images/Featuring -1715873910.png
 Title: Top Christian Concerts in California: Where to Find the Ultimate Live Worship Experiences
 Date: 2024-07-27
 Category: Salvation/Becoming Christian

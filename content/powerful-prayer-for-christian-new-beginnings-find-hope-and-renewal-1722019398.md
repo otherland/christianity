@@ -1,4 +1,5 @@
 ---
+Image: images/Construct -1717068494.png
 Title: Powerful Prayer for Christian New Beginnings: Find Hope and Renewal
 Date: 2024-07-26
 Category: Prayer/Christian Prayer

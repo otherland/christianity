@@ -1,4 +1,5 @@
 ---
+Image: images/A biblical-1713430098.png
 Title: Discover the 7 Gifts of the Holy Spirit: A Comprehensive Guide for Christian Believers
 Date: 2024-07-27
 Category: The Bible/Scriptures And Teachings

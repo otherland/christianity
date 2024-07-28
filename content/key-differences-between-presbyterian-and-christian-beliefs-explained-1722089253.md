@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1713369467.png
 Title: Key Differences Between Presbyterian and Christian Beliefs Explained
 Date: 2024-07-27
 Category: Cults and Religions/Understanding Other Religions

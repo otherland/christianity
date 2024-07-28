@@ -1,4 +1,5 @@
 ---
+Image: images/Create an -1711895035.png
 Title: Attributes of the Holy Spirit: Understanding the Power and Presence of the Spirit in Christianity
 Date: 2024-07-27
 Category: the Holy Spirit/Work Of The Holy Spirit

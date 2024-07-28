@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1711894963.png
 Title: Ultimate Guide to Christian Concerts: Find Praise and Worship Events Near Me
 Date: 2024-07-27
 Category: Salvation/Becoming Christian

@@ -1,4 +1,5 @@
 ---
+Image: images/Generate a-1712068797.png
 Title: Discovering the Map of Galilee in the Time of Jesus: A Comprehensive Guide for Christian Readers
 Date: 2024-07-27
 Category: People in the Bible/Jesus Lost Years

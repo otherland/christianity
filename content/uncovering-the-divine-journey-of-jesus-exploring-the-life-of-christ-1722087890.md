@@ -1,4 +1,5 @@
 ---
+Image: images/Create a l-1717068586.png
 Title: Uncovering the Divine Journey of Jesus: Exploring the Life of Christ
 Date: 2024-07-27
 Category: Theology/The Divinity Of Jesus

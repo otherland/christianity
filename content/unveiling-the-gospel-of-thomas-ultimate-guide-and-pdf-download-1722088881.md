@@ -1,4 +1,5 @@
 ---
+Image: images/In the sty-1713426202.png
 Title: Unveiling the Gospel of Thomas: Ultimate Guide and PDF Download
 Date: 2024-07-27
 Category: People in the Bible/Jesus Lost Years

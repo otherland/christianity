@@ -1,4 +1,5 @@
 ---
+Image: images/Create a b-1715860843.png
 Title: "Ultimate Bible Study Guides by Book: Enhance Your Understanding and Faith"
 Date: 2024-07-22
 Category: The Bible/Bible Study

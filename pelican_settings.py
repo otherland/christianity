@@ -80,3 +80,4 @@ SEO_ENHANCER_TWITTER_CARDS = False # Subfeature of SEO enhancer
 STORK_OUTPUT_OPTIONS = {
     'excerpts_per_result': 1,
 }
+EXTRA_PATH_METADATA = {'images': {'path': 'images'}}

@@ -1,4 +1,5 @@
 ---
+Image: images/In a seren-1715874515.png
 Title: Top 10 Christian Books for 10-Year-Olds: A Comprehensive Guide for Parents
 Date: 2024-07-23
 Category: The Bible/Bible Study

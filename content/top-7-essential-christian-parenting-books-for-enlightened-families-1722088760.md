@@ -1,4 +1,5 @@
 ---
+Image: images/Create a m-1713435009.png
 Title: Top 7 Essential Christian Parenting Books for Enlightened Families
 Date: 2024-07-27
 Category: Family/Christian Family

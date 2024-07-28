@@ -1,4 +1,5 @@
 ---
+Image: images/Create an -1715874879.png
 Title: The Ultimate Journey from Nazareth to Bethlehem in the Bible: A Christian Exploration
 Date: 2024-07-27
 Category: People in the Bible/Jesus Lost Years

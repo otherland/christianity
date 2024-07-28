@@ -1,4 +1,5 @@
 ---
+Image: images/Create an -1713435180.png
 Title: Where Does the New Testament Begin? A Comprehensive Guide for Christian Readers
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

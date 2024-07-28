@@ -1,4 +1,5 @@
 ---
+Image: images/Imagine an-1715874383.png
 Title: Ultimate Guide: Best Order to Read the Bible for Beginners
 Date: 2024-07-26
 Category: the Books of the Bible/Books Of The Bible

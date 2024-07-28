@@ -1,4 +1,5 @@
 ---
+Image: images/3.png
 Title: The Importance of the Fruits of the Spirit: A Comprehensive Guide for Christian Readers
 Date: 2024-07-27
 Category: The Bible/Scriptures And Teachings
