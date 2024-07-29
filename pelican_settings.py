@@ -81,3 +81,6 @@ STORK_OUTPUT_OPTIONS = {
     'excerpts_per_result': 1,
 }
 EXTRA_PATH_METADATA = {'images': {'path': 'images'}}
+
+DEFAULT_PAGINATION = 7
+PAGINATED_DIRECT_TEMPLATES = (('index', 'blog'))
