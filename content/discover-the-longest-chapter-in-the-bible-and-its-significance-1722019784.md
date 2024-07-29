@@ -1,7 +1,7 @@
 ---
 Image: images/Create a f-1713434974.jpg
 Title: Discover the Longest Chapter in the Bible and Its Significance
-Date: 2024-07-26
+Date: 2024-03-27
 Category: the Books of the Bible/Books Of The Bible
 Slug: discover-the-longest-chapter-in-the-bible-and-its-significance
 Tags: longest chapters in the bible, longest chapter of the bible, what is the longest chapter in the bible, what's the longest chapter in the bible, longest chapter in the bible, bible longest chapter, what is the longest bible chapter, the books of the bible, books of the bible

@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1717071646.jpg
 Title: Discover the 12 Appearances of Jesus After His Resurrection: A Comprehensive Guide for Christian Readers
-Date: 2024-07-26
+Date: 2024-03-01
 Category: Theology/The Divinity Of Jesus
 Slug: discover-the-12-appearances-of-jesus-after-his-resurrection-a-comprehensive-guide-for-christian-readers
 Tags: how many times jesus appeared to his disciples after resurrection, 12 appearances of jesus after resurrection, appearances of jesus after the resurrection, post resurrection appearances, list of resurrection appearances of jesus, how many saw jesus ascend, resurrection appearances, how many times did peter see jesus after the resurrection, theology, the divinity of jesus

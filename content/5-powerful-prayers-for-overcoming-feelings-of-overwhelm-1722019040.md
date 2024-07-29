@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1717071480.jpg
 Title: 5 Powerful Prayers for Overcoming Feelings of Overwhelm
-Date: 2024-07-26
+Date: 2024-04-25
 Category: Prayer/Christian Prayer
 Slug: 5-powerful-prayers-for-overcoming-feelings-of-overwhelm
 Tags: prayer for being overwhelmed, prayer for the overwhelmed, prayers for feeling overwhelmed, prayers for overwhelmed, prayer for overwhelmed, prayer for feeling overwhelmed, prayer, christian prayer

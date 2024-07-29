@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1712147116.jpg
 Title: Top Bible Study Workbooks for Adults: Enhance Your Spiritual Growth
-Date: 2024-07-22
+Date: 2024-04-20
 Category: The Bible/Bible Study
 Slug: top-bible-study-workbooks-for-adults-enhance-your-spiritual-growth
 Tags: bible workbook for adults, bible work books, bible study workbooks with answers, bible guide and workbook, christian workbooks, bible study workbooks for adults, bible workbook, bible workbooks for beginners, the bible, bible study

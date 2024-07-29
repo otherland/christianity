@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1713369307.jpg
 Title: Unveiling the Truth: Why the Reliability of the New Testament is Questioned
-Date: 2024-07-27
+Date: 2024-06-23
 Category: Family/Christian Family
 Slug: unveiling-the-truth-why-the-reliability-of-the-new-testament-is-questioned
 Tags: why the new testament is not reliable, how reliable is the new testament, reliability of the new testament, how accurate is the new testament, new testament reliability, the reliability of the new testament, family, christian family

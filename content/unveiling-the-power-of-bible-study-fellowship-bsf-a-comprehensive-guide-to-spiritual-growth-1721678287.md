@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1712157160.jpg
 Title: Unveiling the Power of Bible Study Fellowship : A Comprehensive Guide to Spiritual Growth
-Date: 2024-07-22
+Date: 2024-03-13
 Category: The Bible/Bible Study
 Slug: unveiling-the-power-of-bible-study-fellowship-bsf-a-comprehensive-guide-to-spiritual-growth
 Tags: bsf answers, bsf question answer, bible study fellowship questions, answers to bsf questions, bible study fellowship questions and answers, bsf questions and answers, the bible, bible study

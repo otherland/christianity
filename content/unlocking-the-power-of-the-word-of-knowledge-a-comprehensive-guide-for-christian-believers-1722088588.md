@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1712068880.jpg
 Title: Unlocking the Power of the Word of Knowledge: A Comprehensive Guide for Christian Believers
-Date: 2024-07-27
+Date: 2024-07-17
 Category: Spiritual Life/Spiritual Gifts
 Slug: unlocking-the-power-of-the-word-of-knowledge-a-comprehensive-guide-for-christian-believers
 Tags: examples of the gift of knowledge, what is the word of knowledge, knowledge of the word, signs you have the gift of knowledge, meaning of word of knowledge, what is a word of knowledge, what is word of knowledge, word of knowledge meaning, spiritual life, spiritual gifts

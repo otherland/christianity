@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1717068434.jpg
 Title: Unveiling the Prophetic Gift: Meaning and Relevance for Christian Believers
-Date: 2024-07-27
+Date: 2024-06-01
 Category: Spiritual Life/Spiritual Gifts
 Slug: unveiling-the-prophetic-gift-meaning-and-relevance-for-christian-believers
 Tags: gift of prophecy characteristics, is the gift of prophecy for today, what is the spiritual gift of prophecy, what is prophecy spiritual gift, the spiritual gift of prophecy, the gift of prophecy meaning, spiritual life, spiritual gifts

@@ -1,7 +1,7 @@
 ---
 Image: images/Construct -1717068494.jpg
 Title: Powerful Prayer for Christian New Beginnings: Find Hope and Renewal
-Date: 2024-07-26
+Date: 2024-02-02
 Category: Prayer/Christian Prayer
 Slug: powerful-prayer-for-christian-new-beginnings-find-hope-and-renewal
 Tags: short prayers for new beginnings, a prayer for a new beginning, prayers for new beginnings, prayer for a new beginning, prayers for a new beginning, prayers for new life, prayer, christian prayer

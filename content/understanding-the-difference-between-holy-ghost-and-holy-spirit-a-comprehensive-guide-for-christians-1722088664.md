@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1715860760.jpg
 Title: Understanding the Difference Between Holy Ghost and Holy Spirit: A Comprehensive Guide for Christians
-Date: 2024-07-27
+Date: 2024-02-29
 Category: the Holy Spirit/Work Of The Holy Spirit
 Slug: understanding-the-difference-between-holy-ghost-and-holy-spirit-a-comprehensive-guide-for-christians
 Tags: is there a difference between holy ghost and holy spirit, difference between holy spirit and holy ghost, is the holy ghost and the holy spirit the same, difference between holy ghost and spirit, what is the difference between holy spirit and holy ghost, holy ghost vs holy spirit kjv, what's the difference between holy ghost and holy spirit, holy ghost and holy spirit, holy ghost and holy spirit difference, how many times is holy ghost mentioned in the bible, is the holy ghost and holy spirit the same, the holy spirit, work of the holy spirit

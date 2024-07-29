@@ -1,7 +1,7 @@
 ---
 Image: images/Create a f-1713425320.jpg
 Title: Top 50 Spiritual Weapons for Warfare: A Biblical Guide for Christian Warriors
-Date: 2024-07-27
+Date: 2024-04-05
 Category: Spiritual Life/Spiritual Gifts
 Slug: top-50-spiritual-weapons-for-warfare-a-biblical-guide-for-christian-warriors
 Tags: 50 weapons of spiritual warfare with biblical reference, weapons of faith, weapons of spiritual warfare, spiritual weapons, christian weapons, spiritual gun, biblical weapons of warfare, spiritual weapons in the bible, weapons of warfare, 7 spiritual weapons necessary for spiritual warfare, weapons of spiritual warfare scripture, weapon of god, spiritual life, spiritual gifts

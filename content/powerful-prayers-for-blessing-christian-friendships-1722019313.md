@@ -1,7 +1,7 @@
 ---
 Image: images/2.jpg
 Title: Powerful Prayers for Blessing Christian Friendships
-Date: 2024-07-26
+Date: 2024-03-17
 Category: Prayer/Christian Prayer
 Slug: powerful-prayers-for-blessing-christian-friendships
 Tags: good friend prayer, prayer for good friends, prayer for friendship and love, a friendship prayer, best friend prayer, prayer of friendship, prayer about friendship, prayer for a new friendship, friendship prayer, prayer for friendship, prayers for you friend, prayer, christian prayer

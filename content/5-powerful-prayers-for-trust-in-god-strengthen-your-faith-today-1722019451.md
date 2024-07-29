@@ -1,7 +1,7 @@
 ---
 Image: images/Capture a -1712155599.jpg
 Title: 5 Powerful Prayers for Trust in God: Strengthen Your Faith Today
-Date: 2024-07-26
+Date: 2024-07-28
 Category: Prayer/Christian Prayer
 Slug: 5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today
 Tags: prayer for trust, trust and pray, trust prayer, prayer to trust god, prayer to trust in god, prayer to strengthen faith, prayer, christian prayer

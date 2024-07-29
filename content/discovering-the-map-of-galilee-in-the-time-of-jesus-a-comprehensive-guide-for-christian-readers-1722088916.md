@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1712068797.jpg
 Title: Discovering the Map of Galilee in the Time of Jesus: A Comprehensive Guide for Christian Readers
-Date: 2024-07-27
+Date: 2024-07-13
 Category: People in the Bible/Jesus Lost Years
 Slug: discovering-the-map-of-galilee-in-the-time-of-jesus-a-comprehensive-guide-for-christian-readers
 Tags: map of sea of galilee in jesus day, map of the sea of galilee in jesus day, sea of galilee map jesus time, map of the sea of galilee in jesus time, biblical map of galilee, map of galilee in time of jesus, map of galilee during jesus time, people in the bible, jesus lost years

@@ -1,7 +1,7 @@
 ---
 Image: images/Scene in a-1715875060.jpg
 Title: 10 Uplifting Bible Verses for Men: Discover Strength and Encouragement in God's Word
-Date: 2024-07-26
+Date: 2024-03-16
 Category: the Books of the Bible/Books Of The Bible
 Slug: 10-uplifting-bible-verses-for-men-discover-strength-and-encouragement-in-gods-word
 Tags: scriptures to encourage men, uplifting bible verses for men, encouraging bible verses for men, bible verses to encourage men, motivational bible verses for men, encouraging scriptures for men, bible verse to encourage man, bible words of encouragement for men, encouraging verses for men, bible verses for men's strength, the books of the bible, books of the bible

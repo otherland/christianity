@@ -1,7 +1,7 @@
 ---
 Image: images/Create a d-1717071566.jpg
 Title: Exploring the Divine Connection: The Holy Spirit's Role in Nurturing Love
-Date: 2024-07-27
+Date: 2024-04-09
 Category: The Bible/Scriptures And Teachings
 Slug: exploring-the-divine-connection-the-holy-spirits-role-in-nurturing-love
 Tags: fruit of the holy spirit love, holy spirit love, love of spirit, holy spirit is love, love of the spirit, the fruit of the spirit love, love the spirit, the holy spirit is love, love and spirit, the bible, scriptures and teachings

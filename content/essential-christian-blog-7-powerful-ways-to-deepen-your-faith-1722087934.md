@@ -1,7 +1,7 @@
 ---
 Image: images/Craft an i-1715874737.jpg
 Title: Essential Christian Blog: 7 Powerful Ways to Deepen Your Faith
-Date: 2024-07-27
+Date: 2024-05-30
 Category: Theology/The Divinity Of Jesus
 Slug: essential-christian-blog-7-powerful-ways-to-deepen-your-faith
 Tags: what color eyes did jesus christ have, what color was jesus christ eyes, what color eyes did jesus have, what color eyes does jesus have, what color is jesus christ eyes, color of jesus eyes, christ eyes, what colour eyes did jesus have, color of jesus christ eyes, theology, the divinity of jesus

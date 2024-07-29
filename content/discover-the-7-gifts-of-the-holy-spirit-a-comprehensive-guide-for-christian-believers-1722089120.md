@@ -1,7 +1,7 @@
 ---
 Image: images/A biblical-1713430098.jpg
 Title: Discover the 7 Gifts of the Holy Spirit: A Comprehensive Guide for Christian Believers
-Date: 2024-07-27
+Date: 2024-03-01
 Category: The Bible/Scriptures And Teachings
 Slug: discover-the-7-gifts-of-the-holy-spirit-a-comprehensive-guide-for-christian-believers
 Tags: images of the 7 gifts of the holy spirit, pictures of the seven gifts of the holy spirit, seven gifts of the holy spirit pictures, seven gifts of the holy spirit images, gifts of the holy spirit image, gifts of the spirit images, images of the seven gifts of the holy spirit, 7 gifts of the holy spirit pictures, the bible, scriptures and teachings

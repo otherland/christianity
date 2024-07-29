@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1713369399.jpg
 Title: Christian Prayer for Anger: Discovering Peace and Patience in God's Grace
-Date: 2024-07-26
+Date: 2024-05-05
 Category: Prayer/Christian Prayer
 Slug: christian-prayer-for-anger-discovering-peace-and-patience-in-gods-grace
 Tags: prayer for anger and frustration, prayers for anger and patience, short prayer for anger, prayer to calm anger, prayers for anger, a prayer for anger, prayer for anger control, prayer, christian prayer

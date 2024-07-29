@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1712155564.jpg
 Title: Discover if You Have the Prophetic Gift: A Comprehensive Guide for Christians
-Date: 2024-07-27
+Date: 2024-05-25
 Category: Spiritual Life/Spiritual Gifts
 Slug: discover-if-you-have-the-prophetic-gift-a-comprehensive-guide-for-christians
 Tags: how to know if you have the gift of prophecy, signs you have a prophetic gift, how do you know if you have a prophetic gift, how do i know if i have a prophetic gift, signs of prophecy gift, signs of the gift of prophecy, prophetic gift signs, spiritual life, spiritual gifts

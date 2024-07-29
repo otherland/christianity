@@ -1,7 +1,7 @@
 ---
 Image: images/Imagine an-1715861398.jpg
 Title: Seeking God's Blessings in Love: Powerful Prayers For Him
-Date: 2024-07-26
+Date: 2024-06-05
 Category: Prayer/Christian Prayer
 Slug: seeking-gods-blessings-in-love-powerful-prayers-for-him
 Tags: prayer for a man to love you, prayer for the man i love, a prayer for your boyfriend, prayers for him, short prayer for my boyfriend, love prayer for boyfriend, i pray for him quotes, prayers to pray for your boyfriend, prayer for a man i love, praying for the man you love, prayer for man i love, prayers for the man you love, prayer for my man, prayer to my lover, pray for my love one, prayer for my boyfriend, a prayer for him, prayers for my love ones, love prayer for him, love prayers for him, prayer, christian prayer

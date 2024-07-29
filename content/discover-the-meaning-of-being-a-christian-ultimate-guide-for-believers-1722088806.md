@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1713426324.jpg
 Title: Discover the Meaning of Being a Christian: Ultimate Guide for Believers
-Date: 2024-07-27
+Date: 2024-06-19
 Category: Family/Christian Family
 Slug: discover-the-meaning-of-being-a-christian-ultimate-guide-for-believers
 Tags: what makes someone christian, what makes someone a christian, the word christianity in the bible, what makes a person a christian, what makes a christian, how many times is the word christian in the bible, what makes a christian a christian, family, christian family

@@ -1,7 +1,7 @@
 ---
 Image: images/Create a r-1715860564.jpg
 Title: Pray for Help at Work: Effective Christian Strategies for Success
-Date: 2024-07-26
+Date: 2024-02-12
 Category: Prayer/Christian Prayer
 Slug: pray-for-help-at-work-effective-christian-strategies-for-success
 Tags: prayers for a good day at work, prayer for anxiety at work, prayer for wisdom at work, prayer for guidance at work, prayer for help at work, prayer for peace at work, prayer for a great day at work, prayer for good day at work, prayers for the workplace, prayer at workplace, short prayer for stress at work, prayer for work guidance, prayer for difficulties at work, prayer for stress at work, prayer, christian prayer

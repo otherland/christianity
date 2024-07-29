@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1717068372.jpg
 Title: The Ultimate Guide to Bible Study Booklets for Adult Christian Education
-Date: 2024-07-26
+Date: 2024-07-01
 Category: the Books of the Bible/Books Of The Bible
 Slug: the-ultimate-guide-to-bible-study-booklets-for-adult-christian-education
 Tags: bible workbook for adults, christian workbooks, bible study workbooks for adults, group bible study books, small group bible study books, bible study workbooks, books of the bible study guides, the books of the bible, books of the bible

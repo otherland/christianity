@@ -1,7 +1,7 @@
 ---
 Image: images/Create a l-1717068586.jpg
 Title: Uncovering the Divine Journey of Jesus: Exploring the Life of Christ
-Date: 2024-07-27
+Date: 2024-05-25
 Category: Theology/The Divinity Of Jesus
 Slug: uncovering-the-divine-journey-of-jesus-exploring-the-life-of-christ
 Tags: books on the life of christ, life of christ fulton j sheen, life for christ, life of christ book, the life of christ book, fulton sheen the life of christ, theology, the divinity of jesus

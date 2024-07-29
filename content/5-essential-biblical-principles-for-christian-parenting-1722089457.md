@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1713435141.jpg
 Title: 5 Essential Biblical Principles for Christian Parenting
-Date: 2024-07-27
+Date: 2024-04-15
 Category: The Bible/Bible Study
 Slug: 5-essential-biblical-principles-for-christian-parenting
 Tags: biblical principles of parenting, biblical principles of parenting, biblical parenting principles, biblical parenting principles, parenting as a christian, parenting as a christian, the bible, bible study

@@ -1,7 +1,7 @@
 ---
 Image: images/Create a s-1713425416.jpg
 Title: Ultimate Guide: Understanding the True Meaning of Being a Christian
-Date: 2024-07-27
+Date: 2024-04-19
 Category: Salvation/Becoming Christian
 Slug: ultimate-guide-understanding-the-true-meaning-of-being-a-christian
 Tags: what makes someone christian, what makes someone a christian, what makes a person a christian, what makes a person christian, christian of note, what makes a christian, what makes a christian a christian, salvation, becoming christian

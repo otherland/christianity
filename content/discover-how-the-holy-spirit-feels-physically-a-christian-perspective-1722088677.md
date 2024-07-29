@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1713425519.jpg
 Title: Discover How the Holy Spirit Feels Physically: A Christian Perspective
-Date: 2024-07-27
+Date: 2024-05-20
 Category: the Holy Spirit/Work Of The Holy Spirit
 Slug: discover-how-the-holy-spirit-feels-physically-a-christian-perspective
 Tags: experiencing the holy spirit, physically feeling holy spirit, physical feeling of the holy spirit, how does the holy spirit feel physically, feeling the holy spirit physically, what does the holy spirit feel like physically, holy ghost experience, can you feel the holy spirit, feeling the holy spirit for the first time, what does holy spirit feel like, can you feel the holy spirit physically, the holy spirit, work of the holy spirit

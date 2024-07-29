@@ -1,7 +1,7 @@
 ---
 Image: images/Create a f-1715874598.jpg
 Title: Ultimate Guide: Praying for Wisdom and Guidance from God
-Date: 2024-07-26
+Date: 2024-04-25
 Category: Prayer/Christian Prayer
 Slug: ultimate-guide-praying-for-wisdom-and-guidance-from-god
 Tags: a prayer for god's guidance, prayer for knowledge, prayer for guidance direction clarity and wisdom, lord please guide me, psalm prayer for wisdom, prayer for direction and guidance, prayer, christian prayer

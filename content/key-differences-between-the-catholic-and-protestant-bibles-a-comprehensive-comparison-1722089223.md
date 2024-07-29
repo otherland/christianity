@@ -1,7 +1,7 @@
 ---
 Image: images/Depict a scene of Si-1711891997.jpg
 Title: Key Differences Between the Catholic and Protestant Bibles: A Comprehensive Comparison
-Date: 2024-07-27
+Date: 2024-05-01
 Category: Cults and Religions/Understanding Other Religions
 Slug: key-differences-between-the-catholic-and-protestant-bibles-a-comprehensive-comparison
 Tags: how is the catholic bible different from the protestant bible, what is the difference between a catholic and protestant bible, catholic bible v protestant bible, difference between the catholic bible and the protestant bible, protestant bible vs catholic bible, what is the difference between the catholic and protestant bible, difference between roman catholic and protestant bible, difference in catholic and protestant bible, catholic vs protestant bible, difference between catholic bible and protestant bible, what is the difference between catholic bible and protestant bible, what is difference between catholic and protestant bible, cults and religions, understanding other religions

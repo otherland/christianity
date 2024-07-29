@@ -1,7 +1,7 @@
 ---
 Image: images/A religiou-1717068193.jpg
 Title: Discover the True Meaning of Being a Christian: Essential Guide for Believers
-Date: 2024-07-27
+Date: 2024-04-16
 Category: Theology/The Divinity Of Jesus
 Slug: discover-the-true-meaning-of-being-a-christian-essential-guide-for-believers
 Tags: what makes someone christian, what makes someone a christian, what makes a person a christian, what makes a person christian, what makes a christian, what makes a christian a christian, theology, the divinity of jesus

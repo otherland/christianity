@@ -1,7 +1,7 @@
 ---
 Image: images/Draw an im-1712312299.jpg
 Title: The Origin of the Holy Spirit in Scripture: A Comprehensive Guide
-Date: 2024-07-27
+Date: 2024-07-06
 Category: the Holy Spirit/Work Of The Holy Spirit
 Slug: the-origin-of-the-holy-spirit-in-scripture-a-comprehensive-guide
 Tags: when was the holy ghost first mentioned in the bible, the promise of the holy spirit in the old testament, when was the holy spirit first mentioned in the bible, the first mention of the holy spirit in the bible, when is holy spirit first mentioned in bible, verses about the holy spirit in the old testament, did the holy spirit exist in the old testament, holy spirit in the old testament verses, the holy spirit, work of the holy spirit

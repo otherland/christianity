@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1715861700.jpg
 Title: Understanding the Differences Between Messianic Judaism and Christianity: A Comprehensive Guide
-Date: 2024-07-27
+Date: 2024-02-16
 Category: Theology/The Divinity Of Jesus
 Slug: understanding-the-differences-between-messianic-judaism-and-christianity-a-comprehensive-guide
 Tags: messianic jew vs christianity, messianic vs christianity, are messianic jews christian, difference between messianic judaism and christianity, messianic vs christian, completed jew, theology, the divinity of jesus

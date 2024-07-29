@@ -1,7 +1,7 @@
 ---
 Image: images/Create a B-1715861527.jpg
 Title: The Ultimate Guide to the Holy Spirit: Your Helper, Teacher, and Guide
-Date: 2024-07-27
+Date: 2024-07-10
 Category: the Holy Spirit/Work Of The Holy Spirit
 Slug: the-ultimate-guide-to-the-holy-spirit-your-helper-teacher-and-guide
 Tags: the holy spirit is my teacher, the holy spirit is your teacher, holy spirit is our teacher, the holy spirit our teacher, holy spirit is my teacher, holy spirit as an advocate, holy spirit teacher, the holy spirit is our teacher, the holy spirit, work of the holy spirit

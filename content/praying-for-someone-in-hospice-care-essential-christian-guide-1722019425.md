@@ -1,7 +1,7 @@
 ---
 Image: images/Illustrate-1713426262.jpg
 Title: Praying for Someone in Hospice Care: Essential Christian Guide
-Date: 2024-07-26
+Date: 2024-04-07
 Category: Prayer/Christian Prayer
 Slug: praying-for-someone-in-hospice-care-essential-christian-guide
 Tags: prayer for someone in hospice care, prayer for hospice, prayers for someone in hospice, prayer for person in hospice, prayer for someone in hospice, prayer for hospice patient, prayer, christian prayer

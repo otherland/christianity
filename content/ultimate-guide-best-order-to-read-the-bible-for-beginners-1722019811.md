@@ -1,7 +1,7 @@
 ---
 Image: images/Imagine an-1715874383.jpg
 Title: Ultimate Guide: Best Order to Read the Bible for Beginners
-Date: 2024-07-26
+Date: 2024-06-23
 Category: the Books of the Bible/Books Of The Bible
 Slug: ultimate-guide-best-order-to-read-the-bible-for-beginners
 Tags: best order to read the bible in a year, how to read the bible for the first time, should you read the bible in order, what is the best order to read the bible, should i read the bible in order, reading the bible in order, best order to read the bible for beginners, best order to read the bible for the first time, what order to read the bible in, the books of the bible, books of the bible

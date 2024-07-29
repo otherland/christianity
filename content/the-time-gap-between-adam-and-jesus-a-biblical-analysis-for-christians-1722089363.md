@@ -1,7 +1,7 @@
 ---
 Image: images/Produce an-1715874061.jpg
 Title: The Time Gap Between Adam and Jesus: A Biblical Analysis for Christians
-Date: 2024-07-27
+Date: 2024-02-02
 Category: Creation/Christian Creation
 Slug: the-time-gap-between-adam-and-jesus-a-biblical-analysis-for-christians
 Tags: how many years between adam and jesus, years between adam and jesus, timeline from adam to jesus, how many years between abraham to jesus, adam to jesus timeline, years from adam to jesus, timeline of adam to jesus, how many years from adam to today, how many years since adam and eve, creation, christian creation

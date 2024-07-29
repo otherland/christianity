@@ -1,7 +1,7 @@
 ---
 Image: images/Visualize -1713426292.jpg
 Title: Ultimate Spiritual Warfare Prayers for Protection: Powerful Strategies for Christian Defense
-Date: 2024-07-26
+Date: 2024-07-06
 Category: Prayer/Christian Prayer
 Slug: ultimate-spiritual-warfare-prayers-for-protection-powerful-strategies-for-christian-defense
 Tags: prayer against spiritual attack, prayer for spiritual attack, prayer for spiritual warfare, prayers for spiritual warfare, spiritual attack prayer, spiritual warefare prayers, prayer in spiritual warfare, spiritual warfare prayers for protection, spiritual warfare prayer, how to pray when under spiritual attack, prayer, christian prayer

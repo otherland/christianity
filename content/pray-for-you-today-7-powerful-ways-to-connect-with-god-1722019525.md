@@ -1,7 +1,7 @@
 ---
 Image: images/Create a B-1717071438.jpg
 Title: Pray for You Today: 7 Powerful Ways to Connect with God
-Date: 2024-07-26
+Date: 2024-05-13
 Category: Prayer/Christian Prayer
 Slug: pray-for-you-today-7-powerful-ways-to-connect-with-god
 Tags: how can i pray for you, how can i pray for you today, how can we pray for you, how can we pray for you today, pray for you today, my prayer for you today, prayer, christian prayer

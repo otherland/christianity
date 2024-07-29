@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1713422844.jpg
 Title: 10 Fascinating Facts About Jesus Christ: A Comprehensive Guide for Christian Readers
-Date: 2024-07-26
+Date: 2024-03-02
 Category: Theology/The Divinity Of Jesus
 Slug: 10-fascinating-facts-about-jesus-christ-a-comprehensive-guide-for-christian-readers
 Tags: 100 facts about jesus, weird facts about jesus, 10 interesting facts about jesus, interesting things about jesus, 3 facts about jesus, fun jesus, interesting jesus facts, facts about god and jesus, 10 facts about jesus, stuff about jesus, some facts about jesus, theology, the divinity of jesus

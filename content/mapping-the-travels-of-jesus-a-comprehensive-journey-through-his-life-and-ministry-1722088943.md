@@ -1,7 +1,7 @@
 ---
 Image: images/Craft an i-1712065245.jpg
 Title: Mapping the Travels of Jesus: A Comprehensive Journey through His Life and Ministry
-Date: 2024-07-27
+Date: 2024-07-25
 Category: People in the Bible/Jesus Lost Years
 Slug: mapping-the-travels-of-jesus-a-comprehensive-journey-through-his-life-and-ministry
 Tags: map where jesus walked, map of where jesus walked, jesus life map, jerusalem to bethany map, free map of jesus travels, journey map of jesus ministry, map from judea to galilee samaria, map of jesus ministry, map of where jesus traveled, map of where jesus was born, map of jesus life, path of jesus map, map of jesus, people in the bible, jesus lost years

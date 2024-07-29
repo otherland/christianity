@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1713425214.jpg
 Title: Powerful Prayer for Healing a Sick Mother
-Date: 2024-07-26
+Date: 2024-07-14
 Category: Prayer/Christian Prayer
 Slug: powerful-prayer-for-healing-a-sick-mother
 Tags: prayer for mom who is sick, catholic prayer for a sick mother, prayer for a friend's sick mother, catholic prayer for sick mother, prayer for sick mom, prayer for mom to get well, prayers for sick mom, prayer for mom healing, fast recovery prayer for mom to get well, healing prayer for my mom to get better, prayer for my sick mother, healing prayer for mother, prayer for my sick mom, prayer for mom in hospital, prayer of healing for my mother, catholic prayer for sick mom, healing prayer for my mother, prayer for my mother to be healed, prayer for sick elderly mother, pray for my mother health, prayer for mother health, prayer for the sick mother, prayer for sick mother, healing prayer for my mom, prayer for a friend's sick mom, prayer, christian prayer

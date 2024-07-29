@@ -1,7 +1,7 @@
 ---
 Image: images/Create a s-1715861743.jpg
 Title: Discover the Shortest Chapter in the Bible: A Hidden Gem for Christian Readers
-Date: 2024-07-26
+Date: 2024-07-28
 Category: the Books of the Bible/Books Of The Bible
 Slug: discover-the-shortest-chapter-in-the-bible-a-hidden-gem-for-christian-readers
 Tags: the shortest chapter in the bible, shortest chapters in the bible, shortest chapter in the bible, bible shortest chapter, what is the shortest chapter in the bible, what is shortest chapter in the bible, what is the shortest bible chapter, the shortest bible chapter, the books of the bible, books of the bible

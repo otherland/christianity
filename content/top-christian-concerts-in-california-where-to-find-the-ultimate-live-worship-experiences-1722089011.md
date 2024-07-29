@@ -1,7 +1,7 @@
 ---
 Image: images/Featuring -1715873910.jpg
 Title: Top Christian Concerts in California: Where to Find the Ultimate Live Worship Experiences
-Date: 2024-07-27
+Date: 2024-04-22
 Category: Salvation/Becoming Christian
 Slug: top-christian-concerts-in-california-where-to-find-the-ultimate-live-worship-experiences
 Tags: christian concerts orange county, christian concerts in orange county, christian concerts orange county ca, christian concerts in los angeles area, christian concerts in la, christian concerts bay area, christian concerts in california, christian concerts los angeles, christian concerts california, salvation, becoming christian

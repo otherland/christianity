@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1711894990.jpg
 Title: How to Determine If You Are a True Christian: Essential Signs to Look For
-Date: 2024-07-27
+Date: 2024-04-26
 Category: Salvation/Becoming Christian
 Slug: how-to-determine-if-you-are-a-true-christian-essential-signs-to-look-for
 Tags: how can you tell if someone is a christian, how to tell if someone is a christian, how to tell if someone is christian, how to know if someone is a christian, how do you know if your christian, am i christian, am i a christian, how do you know if someone is a christian, how do you know you are a christian, if you are christian, are you a christian, how do you know if you are a christian, salvation, becoming christian

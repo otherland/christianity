@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1715874879.jpg
 Title: The Ultimate Journey from Nazareth to Bethlehem in the Bible: A Christian Exploration
-Date: 2024-07-27
+Date: 2024-06-02
 Category: People in the Bible/Jesus Lost Years
 Slug: the-ultimate-journey-from-nazareth-to-bethlehem-in-the-bible-a-christian-exploration
 Tags: map of mary and joseph journey, bible map nazareth to bethlehem, map of bethlehem and nazareth, map of mary and joseph's journey from nazareth to bethlehem, biblical map of bethlehem and nazareth, map bethlehem nazareth, bethlehem and nazareth map, map of bethlehem and egypt, map of bethlehem to egypt, map of nazareth and bethlehem israel, bethlehem nazareth jerusalem map, map bethlehem to egypt, people in the bible, jesus lost years

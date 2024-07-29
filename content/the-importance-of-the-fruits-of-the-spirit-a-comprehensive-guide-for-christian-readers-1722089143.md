@@ -1,7 +1,7 @@
 ---
 Image: images/3.jpg
 Title: The Importance of the Fruits of the Spirit: A Comprehensive Guide for Christian Readers
-Date: 2024-07-27
+Date: 2024-02-28
 Category: The Bible/Scriptures And Teachings
 Slug: the-importance-of-the-fruits-of-the-spirit-a-comprehensive-guide-for-christian-readers
 Tags: is it fruit or fruits of the spirit, the fruits of faith, fruit or fruits of the spirit, fruit of the word, blessing of spiritual fruit, why is the fruit of the spirit important, fruit of the spirit background, which fruit of the spirit are you, the bible, scriptures and teachings

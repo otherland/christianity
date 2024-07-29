@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1715860606.jpg
 Title: Unveiling the Biblical Significance of the Number 2: A Comprehensive Guide for Christian Readers
-Date: 2024-07-22
+Date: 2024-06-25
 Category: The Bible/Bible Study
 Slug: unveiling-the-biblical-significance-of-the-number-2-a-comprehensive-guide-for-christian-readers
 Tags: 2 biblical meaning, two in bible, two in the bible, biblical numerology 2, biblical significance of 2, biblical meaning of the number 2, biblical number 2, biblical meaning of two, meaning of the number 2 in the bible, what does 2 mean biblically, what does the number 2 symbolize in the bible, significance of 2 in the bible, the bible, bible study

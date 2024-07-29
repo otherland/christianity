@@ -1,7 +1,7 @@
 ---
 Image: images/Imagine a -1715874197.jpg
 Title: "The Shortest Books in the Bible: Order and Analysis for Christian Readers"
-Date: 2024-07-26
+Date: 2024-07-28
 Category: the Books of the Bible/Books Of The Bible
 Slug: the-shortest-books-in-the-bible-order-and-analysis-for-christian-readers
 Tags: shortest books in the bible in order, books of the bible shortest to longest, what are the shortest books in the bible, shortest books in the bible, shortest book in the old testament, what is shortest book in bible, the shortest book in the bible, shortest old testament book, longest and shortest book in the bible, smallest books of the bible, what is shortest book in the bible, shortest book of the bible, shortest bible book, shortest book in bible, the books of the bible, books of the bible

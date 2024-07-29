@@ -1,7 +1,7 @@
 ---
 Image: images/Create a v-1715875158.jpg
 Title: Healing Prayers for a Broken Heart: Finding Peace and Comfort in God's Love
-Date: 2024-07-26
+Date: 2024-06-27
 Category: Prayer/Christian Prayer
 Slug: healing-prayers-for-a-broken-heart-finding-peace-and-comfort-in-gods-love
 Tags: prayer for heart attack, healing prayer for heart problems, prayer to heal the arteries of the heart, prayer for heart disease, prayer for heart health, prayer to mend what is broken, prayers for a broken heart, prayer, christian prayer

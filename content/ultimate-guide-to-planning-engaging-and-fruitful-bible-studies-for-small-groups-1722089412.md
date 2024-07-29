@@ -1,7 +1,7 @@
 ---
 Image: images/Depict a s-1713422887.jpg
 Title: Ultimate Guide to Planning Engaging and Fruitful Bible Studies for Small Groups
-Date: 2024-07-27
+Date: 2024-05-20
 Category: The Bible/Bible Study
 Slug: ultimate-guide-to-planning-engaging-and-fruitful-bible-studies-for-small-groups
 Tags: small group devotions with discussion questions, small group devotional ideas, small group study ideas, short bible studies for small groups, small group bible study lessons, church small group discussion topics, group bible study ideas, top small group bible studies, small group topics, the bible, bible study

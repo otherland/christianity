@@ -1,7 +1,7 @@
 ---
 Image: images/Create a f-1713435268.jpg
 Title: Is Life Truly a Divine Gift? Understanding God's Plan According to the Bible
-Date: 2024-07-27
+Date: 2024-06-25
 Category: Spiritual Life/Spiritual Gifts
 Slug: is-life-truly-a-divine-gift-understanding-gods-plan-according-to-the-bible
 Tags: life is a gift bible verse, bible verses about god's gift of life, life is a gift from god scripture, life is a gift from god bible verse, life is a gift from god verse, bible verses about the gift of life, spiritual life, spiritual gifts

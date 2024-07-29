@@ -1,7 +1,7 @@
 ---
 Image: images/Create a f-1712157191.jpg
 Title: Baptist vs Non-Denominational: Exploring the Key Differences
-Date: 2024-07-27
+Date: 2024-04-05
 Category: Cults and Religions/Understanding Other Religions
 Slug: baptist-vs-non-denominational-exploring-the-key-differences
 Tags: baptist vs non denominational christian, non denominational vs baptist, what bible does non denominational use, what is the difference between baptist and non denominational, what's the difference between baptist and non denominational, whats the difference between baptist and non denominational, difference between baptist and non denominational, what do non denominational churches believe, cults and religions, understanding other religions

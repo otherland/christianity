@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1712312270.jpg
 Title: Exploring the Sacred Sites of Bethany and Jerusalem: A Christian Pilgrimage Guide
-Date: 2024-07-27
+Date: 2024-05-27
 Category: People in the Bible/Jesus Lost Years
 Slug: exploring-the-sacred-sites-of-bethany-and-jerusalem-a-christian-pilgrimage-guide
 Tags: map of bethany to jerusalem, bethphage and bethany map, bethany and jerusalem map, bethphage map, map of bethany and jerusalem, bethany bible map, people in the bible, jesus lost years

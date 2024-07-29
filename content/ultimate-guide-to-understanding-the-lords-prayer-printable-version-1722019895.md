@@ -1,7 +1,7 @@
 ---
 Image: images/Depict an -1713425258.jpg
 Title: Ultimate Guide to Understanding The Lord's Prayer: Printable Version
-Date: 2024-07-26
+Date: 2024-03-13
 Category: the Books of the Bible/Books Of The Bible
 Slug: ultimate-guide-to-understanding-the-lords-prayer-printable-version
 Tags: the lord's prayer pdf, the lord's prayer printable pdf free, free printable lord's prayer, printable our father prayer, print the lord's prayer, free printable the lord's prayer, the lords prayer printable, printable lords prayer, the lord's prayer printable, the lord's prayer king james version printable, the books of the bible, books of the bible

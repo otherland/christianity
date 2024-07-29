@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1713435180.jpg
 Title: Where Does the New Testament Begin? A Comprehensive Guide for Christian Readers
-Date: 2024-07-26
+Date: 2024-03-11
 Category: the Books of the Bible/Books Of The Bible
 Slug: where-does-the-new-testament-begin-a-comprehensive-guide-for-christian-readers
 Tags: what chapter does the new testament start, when does new testament start, when does the new testament begin, when did the new testament begin, where does the new testament begin, when did new testament start, where does new testament start, where does the new testament start in the bible, when did the new testament start, the new testament begins with what book, the books of the bible, books of the bible

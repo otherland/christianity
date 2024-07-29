@@ -1,7 +1,7 @@
 ---
 Image: images/Generate a-1715861485.jpg
 Title: Top Bible Books for Strengthening Faith During Struggles
-Date: 2024-07-22
+Date: 2024-02-05
 Category: The Bible/Bible Study
 Slug: top-bible-books-for-strengthening-faith-during-struggles
 Tags: bible books for encouragement, books of the bible about trusting god, bible books to read to get closer to god, best book of the bible to read during hard times, best book in the bible for encouragement, best book of the bible for encouragement, books of the bible to read when struggling, what book in the bible should i read for guidance, the bible, bible study

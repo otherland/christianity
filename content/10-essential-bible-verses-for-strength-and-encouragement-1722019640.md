@@ -1,7 +1,7 @@
 ---
 Image: images/An album c-1713370811.jpg
 Title: 10 Essential Bible Verses for Strength and Encouragement
-Date: 2024-07-26
+Date: 2024-07-03
 Category: the Books of the Bible/Books Of The Bible
 Slug: 10-essential-bible-verses-for-strength-and-encouragement
 Tags: best bible chapters, best chapters in the bible, best chapters to read in the bible, best bible chapters to read, good chapters to read in the bible, bible chapters to read, good bible chapters to read, the books of the bible, books of the bible

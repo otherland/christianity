@@ -1,7 +1,7 @@
 ---
 Image: images/Create a f-1713369432.jpg
 Title: Jesus the Physician: Healing, Compassion, and Miracles in Christian Faith
-Date: 2024-07-26
+Date: 2024-04-06
 Category: Theology/The Divinity Of Jesus
 Slug: jesus-the-physician-healing-compassion-and-miracles-in-christian-faith
 Tags: christ the physician, jesus as physician, jesus the physician, jesus physician, jesus as a doctor, jesus is doctor, jesus doctor, theology, the divinity of jesus

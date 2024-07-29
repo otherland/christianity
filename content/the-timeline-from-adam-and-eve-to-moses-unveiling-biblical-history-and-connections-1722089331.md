@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1715860507.jpg
 Title: The Timeline from Adam and Eve to Moses: Unveiling Biblical History and Connections
-Date: 2024-07-27
+Date: 2024-04-27
 Category: Creation/Christian Creation
 Slug: the-timeline-from-adam-and-eve-to-moses-unveiling-biblical-history-and-connections
 Tags: adam and eve timeline, noah to moses timeline, how many years between noah and abraham, noah and moses timeline, how many years between noah and moses, how many years from noah to moses, creation, christian creation

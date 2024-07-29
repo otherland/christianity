@@ -1,7 +1,7 @@
 ---
 Image: images/Create a b-1715860843.jpg
 Title: "Ultimate Bible Study Guides by Book: Enhance Your Understanding and Faith"
-Date: 2024-07-22
+Date: 2024-06-07
 Category: The Bible/Bible Study
 Slug: ultimate-bible-study-guides-by-book-enhance-your-understanding-and-faith
 Tags: book by book bible study guide, bible study guides by book, bible study guide books, book by book bible study, bible study guide book, study guide for the bible, books of the bible study guide

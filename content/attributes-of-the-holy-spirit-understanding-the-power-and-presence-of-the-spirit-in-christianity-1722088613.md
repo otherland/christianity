@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1711895035.jpg
 Title: Attributes of the Holy Spirit: Understanding the Power and Presence of the Spirit in Christianity
-Date: 2024-07-27
+Date: 2024-03-29
 Category: the Holy Spirit/Work Of The Holy Spirit
 Slug: attributes-of-the-holy-spirit-understanding-the-power-and-presence-of-the-spirit-in-christianity
 Tags: characteristics of spirit, qualities of the holy spirit, personality of the holy spirit, attributes of holy spirit, characteristics of the holy ghost, character of the holy spirit, the holy spirit, work of the holy spirit

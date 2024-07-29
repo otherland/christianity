@@ -1,7 +1,7 @@
 ---
 Image: images/Create a p-1715861161.jpg
 Title: Praying for a Sick Friend: Discovering Hope and Comfort through Faith
-Date: 2024-07-26
+Date: 2024-05-18
 Category: Prayer/Christian Prayer
 Slug: praying-for-a-sick-friend-discovering-hope-and-comfort-through-faith
 Tags: a prayer for the sick friend, prayer against illness, black prayers for healing, prayer for someone in critical condition, praying for a sick friend, praying for your recovery, prayer for loved one in hospital, prayer, christian prayer

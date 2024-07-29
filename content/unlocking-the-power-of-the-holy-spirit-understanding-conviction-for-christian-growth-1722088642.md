@@ -1,7 +1,7 @@
 ---
 Image: images/Create an -1713426381.jpg
 Title: Unlocking the Power of the Holy Spirit: Understanding Conviction for Christian Growth
-Date: 2024-07-27
+Date: 2024-04-15
 Category: the Holy Spirit/Work Of The Holy Spirit
 Slug: unlocking-the-power-of-the-holy-spirit-understanding-conviction-for-christian-growth
 Tags: convicted by the holy spirit, what does it mean to be under conviction, when god convicts your heart, what does it mean when god convicts your heart, feeling convicted by the holy spirit, holy ghost conviction, signs the holy spirit is convicting you, the conviction of the holy spirit, how does the holy spirit convict us, does the holy spirit convict, conviction of holy spirit, it is the holy spirit who convicts, the holy spirit convicts of sin, conviction of the holy spirit, holy spirit conviction, conviction of the holy spirit verses, holy spirit convicts of sin, holy spirit convicts us of sin, only the holy spirit can convict, the holy spirit convicts us of sin, the holy spirit convicts us of sin verse, the spirit convicts us of sin, holy spirit convict the world of sin, the holy spirit convicts, the holy spirit convicts the world of sin, holy spirit will convict the world of sin, conviction of sin, convict the world of sin, the holy spirit, work of the holy spirit
