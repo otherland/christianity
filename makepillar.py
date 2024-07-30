@@ -1,0 +1,204 @@
+import os
+import re
+import yaml
+from collections import defaultdict
+
+pillar_prompt = """
+Pillar Category: Family,Christian Family
+<ARTICLES>
+Title: Top 7 Essential Christian Parenting Books for Enlightened Families
+Slug: top-7-essential-christian-parenting-books-for-enlightened-families
+Tags: biblical parenting books, christian books about parenting, good christian parenting books, christian books on parenting, top rated christian parenting books, best christian parenting books, top christian parenting books, christian books for parents, family, christian family
+Excerpt: When it comes to **good Christian parenting books**, there are several highly recommended options available. Some of the **best Christian parenting books** include "Parenting: 14 Gospel Principles That Can Radically Change Your Family" by Paul David Tripp, "The Power of a Praying Parent" by Stormie Omartian, and "Boundaries with Kids" by Dr. Henry Cloud and Dr. John Townsend. These books offer **biblical parenting** advice and practical tips for raising children in a God-honoring way. [One
+
+
+Title: Debunking 5 Common Myths About Christianity
+Slug: debunking-5-common-myths-about-christianity
+Tags: common myths about christianity, myths about christianity, misconceptions about christian, common misconceptions about christianity, christianity misconceptions, misconceptions about christianity, christian misconceptions, family, christian family
+Excerpt: As a Christian, you may encounter **common myths about Christianity** that can lead to misconceptions about your faith. Let's address some of these myths and provide clarity based on biblical truths. - One common myth about Christianity is that all Christians are perfect and never make mistakes. In reality, Christians believe in the concept of grace and forgiveness, acknowledging that everyone is human and prone to sin. This understanding helps build a community of support
+
+
+Title: Discover the Meaning of Being a Christian: Ultimate Guide for Believers
+Slug: discover-the-meaning-of-being-a-christian-ultimate-guide-for-believers
+Tags: what makes someone christian, what makes someone a christian, the word christianity in the bible, what makes a person a christian, what makes a christian, how many times is the word christian in the bible, what makes a christian a christian, family, christian family
+Excerpt: ## [What makes someone a Christian](/ultimate-guide-understanding-the-true-meaning-of-being-a-christian)? Being a **Christian** means more than just identifying with a religious label; it involves a personal relationship with **Jesus Christ**. To be a Christian, you must believe that **Jesus** is the Son of **God** who came to Earth, died for your sins, and rose again. This belief is the foundation of **Christianity**, and it transforms your life, values, and worldview. In the **Bible**, the term "Christian" appears only three
+
+
+Title: Unveiling the Truth: Why the Reliability of the New Testament is Questioned
+Slug: unveiling-the-truth-why-the-reliability-of-the-new-testament-is-questioned
+Tags: why the new testament is not reliable, how reliable is the new testament, reliability of the new testament, how accurate is the new testament, new testament reliability, the reliability of the new testament, family, christian family
+Excerpt: The **reliability of the New Testament** is often questioned due to various factors. One reason is the **time gap** between when the events described in the New Testament occurred and when they were actually written down. Critics argue that this gap could have led to **inaccuracies** or **bias** in the accounts. Additionally, the New Testament consists of various **authors** who may have had different perspectives or agendas, raising concerns about **consistency** and **reliability**. [One Bible
+
+
+Title: Ultimate Guide to Understanding Christianity: Is It the True Religion?
+Slug: ultimate-guide-to-understanding-christianity-is-it-the-true-religion
+Tags: why christianity is true, how do we know christianity is the true religion, is christianity true, how to know christianity is the true religion, how do i know christianity is true, proof that christianity is the true religion, how to know christianity is the right religion, how to know christianity is true, how do you know christianity is the right religion, family, christian family
+Excerpt: **How do you know Christianity is the right religion?** As a Christian, you may have questioned the validity of your faith at some point. The truth is, Christianity is not based on blind faith but on historical evidence, personal experiences, and the reliability of the Bible. The Bible itself provides numerous prophecies fulfilled by Jesus Christ, archaeological evidence supporting biblical events, and the transformation of lives through faith in Christ. In **how to know Christianity
+
+
+Title: 10 Ways Christianity Transforms Daily Life: A Comprehensive Guide
+Slug: 10-ways-christianity-transforms-daily-life-a-comprehensive-guide
+Tags: christianity social impact, effects of christianity, why is christianity important today, how does christianity affect daily life, how does christianity influence the world today, christianity effects on society, how has christianity influenced the world, family, christian family
+Excerpt: **Christianity has a profound impact on daily life, shaping beliefs, values, and actions. For many believers, their faith guides their decisions, relationships, and priorities. The teachings of Jesus Christ encourage kindness, forgiveness, and love towards others, influencing how Christians interact with those around them. This faith also provides a sense of purpose and direction, giving believers a framework for making ethical choices and navigating life's challenges.** One Bible verse that reflects this influence is found
+
+
+</ARTICLES>
+
+Given the above category name and the list of articles with their titles, slugs, tags, and excerpts, create a comprehensive pillar article that incorporates links to all the articles in the category. Follow these guidelines:
+
+Front Matter: Begin the article with the following front matter format:
+
+---
+Title: [Insert catchy, descriptive title for the pillar article]
+Date: [Current date in YYYY-MM-DD format]
+Category: [Exact category name as provided]
+Slug: [create-a-slug-based-on-the-title]
+Tags: [list of relevant tags, can repeat for emphasis]
+---
+
+Comprehensive Linking: Ensure that every single article provided in the input is linked within the pillar content exactly once. Use the article's slug to create the appropriate link structure.
+Varied Link Anchoring:
+
+Use a mix of explicit and implicit anchor text for links.
+Explicit: Use the exact article title as anchor text. Example: [5 Essential Biblical Principles for Christian Parenting](/5-essential-biblical-principles-for-christian-parenting)
+Implicit: Incorporate links naturally into the flow of text. Example: "When considering biblical approaches to raising children, it's important to..."
+Aim for a balance between these styles to maintain readability and SEO value.
+
+
+Introduction: Begin with a compelling overview of the category topic, highlighting its importance and relevance to readers. Mention the breadth of content that will be covered.
+Main Sections: Identify 4-6 main themes or subtopics within the category based on the provided articles. Create a section for each theme, using H2 headings.
+Article Integration:
+
+Within each section, seamlessly incorporate references and links to relevant articles.
+Ensure each article is linked exactly once using its slug.
+Vary your link integration style to maintain a natural flow.
+After linking an article, any subsequent mentions of its content should be made without including additional links.
+
+
+Content Structure:
+
+For each main section, write 2-3 paragraphs (50-70 words each) that provide an overview of the subtopic.
+Include bullet points or numbered lists to break up text and highlight key points.
+Use transitions to maintain a logical flow between sections and article references.
+
+
+Reader Engagement:
+
+Address the reader directly using "you" language.
+Pose thought-provoking questions to encourage further exploration of the topic.
+Use bold text for important phrases or key takeaways.
+
+
+Conclusion: Summarize the main points and encourage readers to explore the linked articles for more detailed information.
+Article Checklist: Before finishing, cross-reference the list of input articles with those mentioned in the pillar content. If any articles haven't been naturally incorporated, create a "Further Reading" section to ensure all articles are included.
+Formatting: Present the final article in markdown format, using appropriate headings, lists, and emphasis.
+Final Check: After completing the article, perform a final check to confirm that:
+
+Every article from the input list is linked exactly once.
+All links use the correct slug format.
+The content flows naturally while incorporating all required links.
+The front matter is correctly formatted with all required fields.
+
+
+
+Remember to maintain a cohesive narrative throughout the pillar article while effectively showcasing and linking to each article within the category exactly once.
+"""
+
+def extract_front_matter(content, filename):
+    front_matter_match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+    if front_matter_match:
+        front_matter_content = front_matter_match.group(1)
+        
+        front_matter = {}
+        for line in front_matter_content.split('\n'):
+            if ':' in line:
+                key, value = line.split(':', 1)
+                key = key.strip()
+                value = value.strip()
+                
+                # Special handling for title and tags
+                if key.lower() in ['title', 'tags']:
+                    front_matter[key] = value
+                else:
+                    # For other fields, use YAML parsing
+                    try:
+                        parsed_value = yaml.safe_load(f"dummy: {value}")['dummy']
+                        front_matter[key] = parsed_value
+                    except yaml.YAMLError:
+                        print(f"Warning: Unable to parse value for key '{key}' in file '{filename}'. Using raw string.")
+                        front_matter[key] = value
+
+        content = content[front_matter_match.end():]
+        return front_matter, content
+    return {}, content
+def get_first_n_words(content, n):
+    words = content.split()
+    return ' '.join(words[:n])
+
+def process_markdown_files(folder_path, num_words=75):
+    categories = defaultdict(list)
+
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.md'):
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                content = file.read()
+
+            front_matter, article_content = extract_front_matter(content, filename)
+            
+            if 'Category' not in front_matter:
+                print(f"Warning: No category found for {filename}. Skipping.")
+                continue
+
+            category = front_matter['Category']
+            category = ','.join(category.split('/'))
+            title = front_matter.get('Title', 'Untitled')
+            tags = front_matter.get('Tags', '')
+            slug = front_matter.get('Slug', os.path.splitext(filename)[0])
+
+            excerpt = get_first_n_words(article_content, num_words)
+
+            article_data = {
+                'title': title,
+                'slug': slug,
+                'tags': tags,  # Keep tags as a string
+                'excerpt': excerpt
+            }
+
+            categories[category].append(article_data)
+
+    return categories
+def create_pillar_article_prompt(category, articles):
+    article_info = []
+    for article in articles:
+        info = f"Title: {article['title']}\n"
+        info += f"Slug: {article['slug']}\n"
+        info += f"Tags: {article['tags']}\n"
+        info += f"Excerpt: {article['excerpt']}\n\n"
+        article_info.append(info)
+
+    prompt = f"In a code snippet\nPillar Category: {category}\n<ARTICLES>\n"
+    prompt += '\n'.join(article_info)
+    prompt += '\n</ARTICLES>\n'
+    prompt += pillar_prompt
+    return prompt
+
+def make_pillar(folder_path, output_folder):
+    categories = process_markdown_files(folder_path)
+
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    for category, articles in categories.items():
+        prompt = create_pillar_article_prompt(category, articles)
+        output_file = os.path.join(output_folder, f"{category.lower().replace(' ', '_')}_pillar_prompt.txt")
+        
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(prompt)
+
+        print(f"Created pillar article prompt for category '{category}': {output_file}")
+
+if __name__ == "__main__":
+    input_folder = "./content"
+    output_folder = "./prompts"
+    make_pillar(input_folder, output_folder)

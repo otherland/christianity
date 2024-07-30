@@ -64,6 +64,8 @@ In [Matthew 19:14](https://www.bibleref.com/Matthew/19/Matthew-19-14.html), Jesu
 
 - It's important to engage children in discussions about the books they read, asking them questions about the characters, the lessons learned, and how they can apply those lessons in their own lives.  can help deepen their understanding of the Christian principles presented in the stories.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gAUhGmDAig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## What Christian books are suitable for 3rd graders or 5th graders?
 
 For **Christian books for 3rd graders** or **5th graders**, you could look into titles like "The Adventures in Odyssey" series by Focus on the Family or "The Young Whit & Whittaker stories" by Phil Lollar. These books offer a mix of adventure, humor, and valuable life lessons based on Christian values.

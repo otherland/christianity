@@ -29,4 +29,6 @@ Throughout the KJV, verses such as [Matthew 3:16](https://www.bibleref.com/Matth
 - In some Christian denominations, the distinction between the Holy Ghost and the Holy Spirit is not significant, as both terms are used interchangeably to refer to the third person of the Trinity.
 
 - The choice to use "Holy Ghost" or "Holy Spirit" in translations can also depend on the theological nuances that different denominations or scholars wish to emphasize in their interpretation of scripture.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9WuKJEOE9fQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## Is there a difference between the Holy Ghost and the Holy Spirit?

@@ -76,6 +76,8 @@ For example, a comprehensive guide on the book of **Psalms** can offer a deeper 
 
 To further explore the richness of Scripture through a book-by-book approach, I recommend the resource "How to Read the Bible Book by Book" by Gordon D. Fee and Douglas Stuart.  book provides in-depth analysis and practical guidance on how to study each book of the Bible, helping you to appreciate the diversity and unity of God's Word.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzSXzyBRV6M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How can Bible study guides by book help you grow in your knowledge of God and His Word?
 
 Growing in your knowledge of God and His Word is a lifelong journey that requires dedication, study, and prayer. Bible study guides by book can serve as valuable companions on this journey, offering insights, challenges, and opportunities for growth.  immersing yourself in the study of Scripture, you can deepen your relationship with God and cultivate a deeper understanding of His character and purposes.

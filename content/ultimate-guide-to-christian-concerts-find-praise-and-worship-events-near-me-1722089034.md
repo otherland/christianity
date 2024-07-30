@@ -69,4 +69,6 @@ To fully engage with the worship experience at **Christian concerts**, it is imp
 - Connect with other believers who will be attending the concert and spend time in fellowship and prayer together beforehand. Building community and unity with other Christians can enhance the worship experience and create a sense of belonging and support.
 
 - Consider creating a worship playlist or listening to the music of the artists performing at the concert in the days leading up to the event. This can help familiarize yourself with the songs, connect with the lyrics and themes, and prepare your heart to engage in worship when you hear them live.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zxziCXI0IvU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## Where can I find information about **Christian concerts near me** in 2024?

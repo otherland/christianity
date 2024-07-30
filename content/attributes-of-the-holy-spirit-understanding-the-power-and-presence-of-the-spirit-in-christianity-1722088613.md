@@ -62,6 +62,8 @@ Tags: characteristics of spirit, qualities of the holy spirit, personality of th
 
 - The character of the Holy Spirit empowers believers to live out their faith boldly and confidently. Just as the early disciples were filled with the Holy Spirit and emboldened to preach the gospel, believers today can experience the same courage and boldness in sharing their faith and living as witnesses for Christ.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNNZO9i1Gjc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How can believers experience the attributes of the Holy Spirit in their lives?
 
 **Believers can experience the attributes** of the Holy Spirit in their lives through **prayer**, **faith**, and **surrender**. By seeking the guidance and presence of the Holy Spirit in prayer, believers open themselves to His transformative work in their hearts and minds. Through faith and surrender, believers allow the Holy Spirit to lead and empower them in their daily walk with God.

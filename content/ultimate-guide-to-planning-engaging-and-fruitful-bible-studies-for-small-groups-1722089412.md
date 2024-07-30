@@ -28,6 +28,8 @@ When crafting **small [group bible study](/the-ultimate-guide-to-bible-study-boo
 
 - Utilizing open-ended questions that allow for multiple perspectives can lead to richer discussions and insights. For example, asking "In what ways do you think this passage challenges our modern-day understanding of [insert topic]?" encourages participants to think critically and engage with the text on a deeper level.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qfHTfigmAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How can I ensure that **[small group Bible studies](/ultimate-guide-to-small-group-bible-studies-engage-grow-and-connect)** are inclusive and welcoming to all participants?
 
 Creating a welcoming and inclusive environment in **small group study** is vital for fostering a sense of belonging and community among participants. Ensure that **top small group bible studies** are open to diverse perspectives and backgrounds, allowing each member to contribute their unique insights and experiences. Encourage active listening and respect for differing opinions, creating a safe space where everyone feels valued and heard.

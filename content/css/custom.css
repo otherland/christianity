@@ -40,9 +40,10 @@ font-size: 1em;
 
 .sidebar h3 {
     font-size: 1.4rem;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid #ddd;
+    margin-top: 1rem;
 }
 
 .sidebar ul {
@@ -286,4 +287,116 @@ h3.related-articles-header {
     .site-header {
         padding: 1rem 6rem 3rem;
     }
+}
+
+.subscribe-widget {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 4rem;
+}
+
+.subscribe-widget form {
+    width: 90%;
+}
+
+.subscribe-widget h3 {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-top: 0;
+}
+
+
+.subscribe-widget p {
+    font-family: Arial, sans-serif;
+    color: #666;
+}
+
+.subscribe-widget form {
+    display: flex;
+    flex-direction: column;
+}
+
+.subscribe-widget input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+}
+
+.subscribe-widget button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+}
+
+.subscribe-widget button:hover {
+    background-color: #0056b3;
+}
+
+.author-info {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.author-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.author-details {
+}
+
+.author-details h4 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.author-details p {
+    margin: 5px 0 0;
+    color: #666;
+    font-size: 1rem;
+}
+
+.verification-box {
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+    border: 1px solid #4caf50;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 600px;
+}
+
+.verification-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.verification-text {
+    font-size: 14px;
+    color: #2e7d32;
+    font-weight: bold;
+}
+.newRule {
+    width: 50%;
 }

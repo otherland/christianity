@@ -29,4 +29,6 @@ In [1 Thessalonians 5:19-21](https://www.bibleref.com/1-Thessalonians/5/1-Thessa
 - Seek feedback from those who have witnessed or been impacted by your prophetic words or actions. Their perspectives can provide valuable insights into the authenticity and effectiveness of your gift.
 
 - Attend workshops, conferences, or training sessions on prophetic ministry to further develop and sharpen your gift. Surrounding yourself with like-minded individuals and learning from experienced prophets can enhance your understanding and application of the prophetic.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zv0XbNBmw4M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## What are the signs that you have a prophetic gift?

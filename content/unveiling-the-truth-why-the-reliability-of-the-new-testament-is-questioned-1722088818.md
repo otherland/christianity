@@ -16,6 +16,8 @@ The **reliability of the New Testament** is often questioned due to various fact
 
 - **Comparative studies** with other ancient texts and historical sources can help validate the reliability of the New Testament. Scholars analyze similarities and differences between the biblical narratives and external sources to assess the credibility of the events and characters portrayed in [the New Testament](/unveiling-the-gospel-of-thomas-ultimate-guide-and-pdf-download).
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sVif0u-O2fA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How do scholars assess the reliability of the New Testament?
 
 Scholars use various methods to assess the **reliability** of the New Testament. **Historical** and **textual criticism** are employed to examine the **manuscripts** of the New Testament and determine their **authenticity**. By comparing different copies and fragments, scholars can identify **errors** or **variations** in the text. Additionally, **archaeological** discoveries provide **evidence** that supports the **historical accuracy** of the New Testament accounts.

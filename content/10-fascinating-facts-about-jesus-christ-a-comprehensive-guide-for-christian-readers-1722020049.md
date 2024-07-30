@@ -70,6 +70,8 @@ In [Philippians 2:6-8](https://www.bibleref.com/Philippians/2/Philippians-2-6.ht
 - Throughout his ministry, Jesus emphasized the importance of love, forgiveness, and compassion. His teachings on forgiveness, such as the parable of the Prodigal Son, exemplify his message of mercy and reconciliation.
 - Jesus' life was also characterized by resistance to injustice and oppression. His confrontation with religious authorities and overturning of tables in the temple highlight his commitment to challenging systems of oppression and advocating for the marginalized.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g7lDEqey1YY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## What are some 100 facts about Jesus?
 
 While it may be challenging to list **100 facts about Jesus** in this brief article, it's important to recognize the multifaceted nature of his identity and mission.  his miraculous birth to his triumphant resurrection, Jesus' life is filled with significant events that shape Christian belief and practice.

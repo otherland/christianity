@@ -24,6 +24,8 @@ If you are wondering **what is the longest chapter in the Bible**, you will find
 
 - The psalmist's expressions of delight, longing, and devotion towards God's word in Psalm 119 reveal a deep love for God and a desire to know Him more intimately.  teaches us the importance of cultivating a heart of worship and seeking after God with fervor and passion.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VEkEih7bp1g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How does Psalm 119 inspire us to deepen our relationship with God?
 
 **How can Psalm 119 inspire us to cultivate a deeper connection** with God? The heartfelt expressions of devotion and reverence for God's word in Psalm 119 can motivate us to prioritize our relationship with Him.  meditating on Scripture, obeying His commandments, and seeking Him with sincerity, we can draw closer to the Lord and experience His presence in a profound way.

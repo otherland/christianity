@@ -1,5 +1,4 @@
 # from pelican_settings import *
-
 import logging
 
 PATH = '/Users/tomyates/niche_sites/sites/christianity/content' 
@@ -22,7 +21,7 @@ AUTHOR_FEED_RSS = 'feeds/{slug}.rss.xml'
 TRANSLATION_FEED_ATOM = 'feeds/all-{lang}.atom.xml' 
 FEED_MAX_ITEMS = 100 
 RSS_FEED_SUMMARY_ONLY = True 
-# SITEURL = 'http://127.0.0.1:8000/' 
+SITEURL = 'http://127.0.0.1:8000/' 
 SITENAME = 'Bible Based Living' 
 SITETITLE = 'Bible Based Living'
 DISPLAY_PAGES_ON_MENU = True 
@@ -70,7 +69,7 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 AUTHOR_URL = 'author/{slug}.html' 
 AUTHOR_SAVE_AS = 'author/{slug}.html' 
 
-AUTHOR = 'Bible Based Living'
+AUTHOR = 'maisha_johnson'
 
 # PLUGINS = ['more_categories','seo']
 
@@ -82,5 +81,34 @@ SEO_ENHANCER_TWITTER_CARDS = False # Subfeature of SEO enhancer
 STORK_OUTPUT_OPTIONS = {
     'excerpts_per_result': 1,
 }
+EXTRA_PATH_METADATA = {'images': {'path': 'images'}}
 
+DEFAULT_PAGINATION = 7
+PAGINATED_DIRECT_TEMPLATES = (('index', 'blog'))
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.6,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "daily",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
+
+import yaml
+
+# Load author information
+with open('content/authors.yaml', 'r') as f:
+    AUTHORS = yaml.safe_load(f)
+
+STATIC_PATHS = ['extra/robots.txt']
+
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': '/robots.txt'}
+}
 SITEURL = 'https://christianity-e51.pages.dev/'

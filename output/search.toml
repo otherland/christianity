@@ -13,6 +13,71 @@ url = "/pages/contact.html"
 title = "Contact Us"
 
 [[input.files]]
+path = "pages/privacy.html"
+url = "/pages/privacy.html"
+title = "Privacy Policy for BibleBasedLiving.com"
+
+[[input.files]]
+path = "exploring-biblical-creation-from-adam-to-jesus.html"
+url = "/exploring-biblical-creation-from-adam-to-jesus.html"
+title = "Exploring Biblical Creation: From Adam to Jesus"
+
+[[input.files]]
+path = "exploring-faith-from-biblical-differences-to-personal-growth.html"
+url = "/exploring-faith-from-biblical-differences-to-personal-growth.html"
+title = "Exploring Faith: From Biblical Differences to Personal Growth"
+
+[[input.files]]
+path = "journey-to-faith-understanding-and-embracing-christianity.html"
+url = "/journey-to-faith-understanding-and-embracing-christianity.html"
+title = "Journey to Faith: Understanding and Embracing Christianity"
+
+[[input.files]]
+path = "navigating-the-scriptures-comprehensive-guide-books-of-the-bible.html"
+url = "/navigating-the-scriptures-comprehensive-guide-books-of-the-bible.html"
+title = "Navigating the Scriptures: A Comprehensive Guide to the Books of the Bible"
+
+[[input.files]]
+path = "nurturing-faith-and-family-comprehensive-guide-christian-parenting-life.html"
+url = "/nurturing-faith-and-family-comprehensive-guide-christian-parenting-life.html"
+title = "Nurturing Faith and Family: A Comprehensive Guide to Christian Parenting and Life"
+
+[[input.files]]
+path = "transformative-power-of-christian-prayer-comprehensive-guide.html"
+url = "/transformative-power-of-christian-prayer-comprehensive-guide.html"
+title = "The Transformative Power of Christian Prayer: A Comprehensive Guide"
+
+[[input.files]]
+path = "unlocking-the-scriptures-comprehensive-guide-meaningful-bible-study.html"
+url = "/unlocking-the-scriptures-comprehensive-guide-meaningful-bible-study.html"
+title = "Unlocking the Scriptures: A Comprehensive Guide to Meaningful Bible Study"
+
+[[input.files]]
+path = "unlocking-your-divine-potential-comprehensive-guide-spiritual-gifts.html"
+url = "/unlocking-your-divine-potential-comprehensive-guide-spiritual-gifts.html"
+title = "Unlocking Your Divine Potential: A Comprehensive Guide to Spiritual Gifts"
+
+[[input.files]]
+path = "unraveling-the-mystery-jesus-lost-years-and-biblical-journeys.html"
+url = "/unraveling-the-mystery-jesus-lost-years-and-biblical-journeys.html"
+title = "Unraveling the Mystery: Jesus' Lost Years and Biblical Journeys"
+
+[[input.files]]
+path = "unveiling-the-divine-comprehensive-exploration-jesus-christ-divinity.html"
+url = "/unveiling-the-divine-comprehensive-exploration-jesus-christ-divinity.html"
+title = "Unveiling the Divine: A Comprehensive Exploration of Jesus Christ's Divinity"
+
+[[input.files]]
+path = "unveiling-the-mystery-holy-spirits-transformative-work-christian-life.html"
+url = "/unveiling-the-mystery-holy-spirits-transformative-work-christian-life.html"
+title = "Unveiling the Mystery: The Holy Spirit's Transformative Work in Christian Life"
+
+[[input.files]]
+path = "unveiling-the-power-of-scripture-deep-dive-biblical-teachings-holy-spirit.html"
+url = "/unveiling-the-power-of-scripture-deep-dive-biblical-teachings-holy-spirit.html"
+title = "Unveiling the Power of Scripture: A Deep Dive into Biblical Teachings and the Holy Spirit"
+
+[[input.files]]
 path = "5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today.html"
 url = "/5-powerful-prayers-for-trust-in-god-strengthen-your-faith-today.html"
 title = "5 Powerful Prayers for Trust in God: Strengthen Your Faith Today"

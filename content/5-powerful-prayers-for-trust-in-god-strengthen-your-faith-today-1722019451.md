@@ -49,6 +49,8 @@ Trusting in **God's plan** through prayer requires **letting go of your own desi
 - **Learning from past experiences**: Reflect on past moments where God's plan unfolded in unexpected ways, but ultimately led to blessings or growth.  can serve as a reminder to trust in God's plan, even when it may be difficult.
 - **Community support**: Surround yourself with a community of believers who can pray with you and provide encouragement during times of doubt or uncertainty. Sharing your struggles and victories in prayer can deepen your trust in God's plan.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6NdBRSbqKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How can prayer help me overcome doubt and fear?
 
 **Prayer** is a powerful tool to help you **overcome doubt and fear** by **releasing your worries** and concerns to God. When you feel overwhelmed by doubt or fear, turn to God in prayer and ask Him to **strengthen your faith** and trust in Him. Through prayer, you can **find comfort** and reassurance in God's love and presence.

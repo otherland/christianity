@@ -46,6 +46,8 @@ When searching for **recommended Christian books for young adults**, consider ti
 - Look for Christian books that offer a fresh perspective or unique approach to faith, such as "Searching for Sunday" by Rachel Held Evans or "Jesus > Religion" by Jefferson Bethke. These books can help young adults deepen their understanding of Christianity and explore their beliefs in a meaningful way.
 - Don't be afraid to explore fiction books with Christian themes, such as "The Chronicles of Narnia" series by C.S. Lewis or "Redeeming Love" by Francine Rivers. These books can engage young adult readers in a compelling story while also conveying important messages about faith, love, and redemption.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0p53FUOUD98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How can Christian fiction books for teens foster a sense of community and belonging?
 
 **Christian fiction books for teens** can create a sense of **community** and **belonging** by depicting characters who face similar **struggles** and **challenges** in their faith journey. These stories can resonate with young adults, showing them that they are not alone in their **experiences** and **emotions**.

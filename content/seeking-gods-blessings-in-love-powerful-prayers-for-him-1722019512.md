@@ -43,6 +43,8 @@ Praying for your boyfriend's well-being is a **beautiful expression of love**. A
 - Ask for **courage** and **boldness** in his faith, that he may not be afraid to share his beliefs with others and stand firm in his convictions.
 - Pray for **patience** and **perseverance** in times of doubt or struggle, that he may rely on God's strength to overcome challenges and grow in his relationship with Him.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uF9LVqUUSSQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ## How can I pray for my boyfriend's love and kindness?
 
 Praying for your boyfriend's **love and kindness** is crucial in nurturing a **God-centered relationship**. Ask the Lord to **fill his heart** with love, compassion, and forgiveness. Pray that he may **treat others with kindness** and be a **reflection of God's love** in his actions. Trust that God will work in his heart and **strengthen your bond** through love.
