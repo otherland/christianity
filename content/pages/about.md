@@ -3,10 +3,9 @@ Image: images/3.png
 Title: About Us
 Date: 2024-07-10 16:02
 Category: 
-Slug: about-us
+Slug: about
 Description: Welcome to our online theological library a vast collection of Christian resources dedicated to glorifying Jesus Christ alone Our mission is to provide believers with access to essential articles and resources rooted in historical orthodoxy We aim to aid the church in embracing and rediscovering the gospel and authentic biblical
 ---
-
 
 
 Welcome to our online theological library, a vast collection of Christian resources dedicated to glorifying Jesus Christ alone. Our mission is to provide believers with access to essential articles and resources rooted in historical orthodoxy. We aim to aid the church in embracing and rediscovering the gospel and authentic biblical doctrines of the historic Christian faith.
