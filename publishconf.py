@@ -134,4 +134,4 @@ METADATA_FIELDS = [
     ('description', ''),
 ]
 
-SITEURL = 'https://christianity-e51.pages.dev/'
+SITEURL = 'https://biblebasedliving.com'

@@ -3,8 +3,8 @@ html_selector = "main"
 base_directory = "/Users/tomyates/niche_sites/sites/christianity/output"
 
 [[input.files]]
-path = "pages/about-us.html"
-url = "/pages/about-us"
+path = "pages/about.html"
+url = "/pages/about"
 title = "About Us"
 
 [[input.files]]
