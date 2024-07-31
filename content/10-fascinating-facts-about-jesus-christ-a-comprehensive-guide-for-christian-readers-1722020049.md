@@ -5,7 +5,11 @@ Date: 2024-03-02
 Category: Theology/The Divinity Of Jesus
 Slug: 10-fascinating-facts-about-jesus-christ-a-comprehensive-guide-for-christian-readers
 Tags: 100 facts about jesus, weird facts about jesus, 10 interesting facts about jesus, interesting things about jesus, 3 facts about jesus, fun jesus, interesting jesus facts, facts about god and jesus, 10 facts about jesus, stuff about jesus, some facts about jesus, theology, the divinity of jesus
+Description: When it comes to weird facts about Jesus one interesting tidbit is that he was born in Bethlehem fulfilling a prophecy from Micah 52 Another unusual fact is that Jesus was known for performing miracles such as turning water into wine and feeding thousands with a few loaves of bread
 ---
+
+
+
 ## What are some weird facts about Jesus?
 
 When it comes to **weird facts about Jesus**, one interesting tidbit is that he was born in Bethlehem, fulfilling a prophecy from [Micah 5:2](https://www.bibleref.com/Micah/5/Micah-5-2.html). Another unusual fact is that Jesus was known for performing miracles, such as turning water into wine and feeding thousands with a few loaves of bread and fish.

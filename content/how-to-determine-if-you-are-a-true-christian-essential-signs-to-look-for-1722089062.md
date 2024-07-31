@@ -5,7 +5,11 @@ Date: 2024-04-26
 Category: Salvation/Becoming Christian
 Slug: how-to-determine-if-you-are-a-true-christian-essential-signs-to-look-for
 Tags: how can you tell if someone is a christian, how to tell if someone is a christian, how to tell if someone is christian, how to know if someone is a christian, how do you know if your christian, am i christian, am i a christian, how do you know if someone is a christian, how do you know you are a christian, if you are christian, are you a christian, how do you know if you are a christian, salvation, becoming christian
+Description: Being a Christian means that you have accepted Jesus Christ as your Lord and Savior It involves having a personal relationship with Him believing in His sacrifice for your sins and following His teachings in your daily life One Bible verse that highlights this is John 316 which says For
 ---
+
+
+
 ## What does it mean to be a Christian?
 
 Being a **Christian** means that you have accepted **Jesus Christ** as your **Lord and Savior**. It involves having a personal relationship with Him, believing in His sacrifice for your sins, and following His teachings in [your daily life](/ultimate-bible-study-guides-by-book-enhance-your-understanding-and-faith).

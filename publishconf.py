@@ -9,7 +9,7 @@ PAGE_EXCLUDES = ['']
 THEME = '/Users/tomyates/niche_sites/themes/genus' 
 OUTPUT_PATH = '/Users/tomyates/niche_sites/sites/christianity/output' 
 READERS = {} 
-STATIC_PATHS = ['images', 'css'] 
+STATIC_PATHS = ['images', 'css', 'misc', 'social-cards', 'extras'] 
 STATIC_EXCLUDES = [] 
 STATIC_EXCLUDE_SOURCES = True 
 THEME_STATIC_DIR = 'theme' 
@@ -40,7 +40,7 @@ REVERSE_CATEGORY_ORDER = False
 DELETE_OUTPUT_DIRECTORY = False 
 OUTPUT_RETENTION = [] 
 INDEX_SAVE_AS = 'index.html' 
-ARTICLE_URL = '{slug}.html' 
+ARTICLE_URL = '{slug}/' 
 ARTICLE_SAVE_AS = '{slug}.html' 
 ARTICLE_ORDER_BY = 'reversed-date' 
 ARTICLE_LANG_URL = '{slug}-{lang}.html' 
@@ -49,7 +49,7 @@ DRAFT_URL = 'drafts/{slug}.html'
 DRAFT_SAVE_AS = 'drafts/{slug}.html' 
 DRAFT_LANG_URL = 'drafts/{slug}-{lang}.html' 
 DRAFT_LANG_SAVE_AS = 'drafts/{slug}-{lang}.html' 
-PAGE_URL = 'pages/{slug}.html' 
+PAGE_URL = 'pages/{slug}' 
 PAGE_SAVE_AS = 'pages/{slug}.html' 
 PAGE_ORDER_BY = 'basename' 
 PAGE_LANG_URL = 'pages/{slug}-{lang}.html' 
@@ -106,9 +106,32 @@ import yaml
 with open('content/authors.yaml', 'r') as f:
     AUTHORS = yaml.safe_load(f)
 
-STATIC_PATHS = ['extra/robots.txt']
 
 EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': '/robots.txt'}
+    'extras/robots.txt': {'path': 'robots.txt'},
+    'extras/favicon.ico': {'path': 'favicon.ico'},  # and this
 }
+
+CSS_MIN = True
+HTML_MIN = True
+INLINE_CSS_MIN = True
+INLINE_JS_MIN = True
+
+SOCIAL_CARDS_TEMPLATE = "content/misc/template.png"
+
+SOCIAL_CARDS_HORIZONTAL_ALIGNMENT = "left"
+SOCIAL_CARDS_VERTICAL_ALIGNMENT = "bottom"
+SOCIAL_CARDS_FONT_FILL = "#ffffff"
+SOCIAL_CARDS_FONT_FILENAME = "LeagueSpartan-Bold.otf"
+
+SEO_REPORT = True  # SEO report is enabled by default
+SEO_ENHANCER = True  # SEO enhancer is disabled by default
+SEO_ENHANCER_OPEN_GRAPH = True # Subfeature of SEO enhancer
+SEO_ENHANCER_TWITTER_CARDS = True # Subfeature of SEO enhancer"
+
+METADATA_FIELDS = [
+    ('keywords', 'Keywords'),
+    ('description', ''),
+]
+
 SITEURL = 'https://christianity-e51.pages.dev/'

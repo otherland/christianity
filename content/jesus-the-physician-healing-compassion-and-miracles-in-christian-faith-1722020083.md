@@ -5,7 +5,11 @@ Date: 2024-04-06
 Category: Theology/The Divinity Of Jesus
 Slug: jesus-the-physician-healing-compassion-and-miracles-in-christian-faith
 Tags: christ the physician, jesus as physician, jesus the physician, jesus physician, jesus as a doctor, jesus is doctor, jesus doctor, theology, the divinity of jesus
+Description: As Christ the physician Jesus demonstrated profound compassion and miraculous healing throughout His ministry on earth Gospels are filled with accounts of Jesus healing the sick restoring sight to the blind and even raising the dead His divine power and love for humanity were evident in every healing touch and
 ---
+
+
+
 As **Christ the physician**, Jesus demonstrated profound compassion and miraculous healing throughout His ministry on earth.  Gospels are filled with accounts of Jesus healing the sick, restoring sight to the blind, and even raising the dead. [His divine power](/10-fascinating-facts-about-jesus-christ-a-comprehensive-guide-for-christian-readers) and love for humanity were evident in every healing touch and word spoken.
 
 **Bible Verse:**

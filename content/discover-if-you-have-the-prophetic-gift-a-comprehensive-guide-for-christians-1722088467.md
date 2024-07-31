@@ -5,7 +5,11 @@ Date: 2024-05-25
 Category: Spiritual Life/Spiritual Gifts
 Slug: discover-if-you-have-the-prophetic-gift-a-comprehensive-guide-for-christians
 Tags: how to know if you have the gift of prophecy, signs you have a prophetic gift, how do you know if you have a prophetic gift, how do i know if i have a prophetic gift, signs of prophecy gift, signs of the gift of prophecy, prophetic gift signs, spiritual life, spiritual gifts
+Description: If you are wondering whether you have the gift of prophecy there are several signs to look out for One common indicator is having a strong sense of discernment and being able to see things from a spiritual perspective You may also find yourself having vivid dreams or visions that
 ---
+
+
+
 ## What are the signs that you have a prophetic gift?
 
 If you are wondering whether you have the **gift of prophecy**, there are several signs to look out for. One common indicator is having a strong sense of discernment and being able to see things from a spiritual perspective. You may also find yourself having vivid dreams or visions that provide insight into future events. Additionally, you might feel a deep burden to pray for others and receive specific messages from God for them.

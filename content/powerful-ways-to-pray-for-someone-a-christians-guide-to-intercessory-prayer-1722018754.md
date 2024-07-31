@@ -4,7 +4,11 @@ Title: Powerful Ways to Pray for Someone: A Christian's Guide to Intercessory Pr
 Date: 2024-07-08
 Category: Prayer/Christian Prayer
 Slug: powerful-ways-to-pray-for-someone-a-christians-guide-to-intercessory-power
+Description: As you pray for others consider lifting up a variety of requests on their behalf Pray for their physical health emotional wellbeing spiritual growth relationships and any specific challenges they may be facing Ask God to provide comfort strength wisdom and grace to sustain them through difficult times and to
 ---
+
+
+
 
 ## What to pray for others?
 

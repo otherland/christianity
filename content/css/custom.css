@@ -400,3 +400,46 @@ h3.related-articles-header {
 .newRule {
     width: 50%;
 }
+.share-buttons {
+    margin-bottom: 1rem;
+}
+
+section.share {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+.share {
+    background: linear-gradient(to top right, rgb(42 116 167), rgb(233, 245, 255));    
+}
+@media (min-width: 40em) {
+    section.share span {
+        display: inline;
+        padding-right: var(--gutter);
+        flex-basis: auto;
+    }
+}
+
+section.share span {
+    display: block;
+    color: var(--color-secondary);
+    flex-basis: 100%;
+    font-size: 1.4em;
+    font-weight: 300;
+}
+@media (min-width: 64em) {
+    .share a {
+        padding: 1rem;
+    }
+}
+.share a {
+    opacity: .8;
+    padding: 1rem;
+}
+
+.share img {
+    color: var(--color-primary);
+}

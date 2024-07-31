@@ -5,7 +5,11 @@ Date: 2024-07-30
 Category: Creation/Christian Creation
 Slug: exploring-biblical-creation-from-adam-to-jesus
 Tags: creation, christian creation, biblical timeline, adam and eve, moses, jesus, biblical history, pillar
+Description: The concept of creation in Christian theology is a foundational aspect of understanding the origins of humanity and the world around us From the first humans Adam and Eve to the coming of Jesus Christ the Bible provides a rich tapestry of history genealogy and divine intervention This article will
 ---
+
+
+
 
 The concept of creation in Christian theology is a foundational aspect of understanding the origins of humanity and the world around us. From the first humans, Adam and Eve, to the coming of Jesus Christ, the Bible provides a rich tapestry of history, genealogy, and divine intervention. This article will explore the vast timeline of biblical creation, offering insights into the key figures and events that shaped the Christian narrative.
 

@@ -5,7 +5,11 @@ Date: 2024-04-20
 Category: People in the Bible/Jesus Lost Years
 Slug: unveiling-the-gospel-of-thomas-ultimate-guide-and-pdf-download
 Tags: gospel of thomas pdf free download, the lost gospel of thomas pdf, the gospel of thomas pdf, the book of thomas gospel pdf, book of thomas pdf, the book of thomas pdf, gospel of st thomas pdf, gospel of thomas 114 pdf, gospel of thomas pdf, people in the bible, jesus lost years
+Description: The Gospel of Thomas is a noncanonical text discovered in Nag Hammadi Egypt in 1945 It contains 114 sayings attributed to Jesus and is not included in the New Testament If you are looking for a Gospel of Thomas PDF you can easily find free downloads online This ancient text
 ---
+
+
+
 The **Gospel of Thomas** is a non-canonical text discovered in Nag Hammadi, Egypt, in 1945. It contains 114 sayings attributed to Jesus and is not included in [the New Testament](/ultimate-guide-best-order-to-read-the-bible-for-beginners). If you are looking for a **Gospel of Thomas PDF**, you can easily find free downloads online. This ancient text offers unique insights into Jesus' teachings and spirituality.
 
 In the **Gospel of Thomas**, you will find profound statements such as saying 2: "Jesus said, 'Let one who seeks not stop seeking until one finds. When one finds, one will be disturbed. When one is disturbed, one will marvel, and will reign over all.'" This verse emphasizes the importance of seeking spiritual truth with persistence and dedication ([Matthew 7:7-8](https://www.bibleref.com/Matthew/7/Matthew-7-7.html)). Through exploring the **Gospel of Thomas PDF**, you can delve into these teachings and reflect on their significance in your life.

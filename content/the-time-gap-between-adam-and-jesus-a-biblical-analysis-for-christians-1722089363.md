@@ -5,7 +5,11 @@ Date: 2024-02-02
 Category: Creation/Christian Creation
 Slug: the-time-gap-between-adam-and-jesus-a-biblical-analysis-for-christians
 Tags: how many years between adam and jesus, years between adam and jesus, timeline from adam to jesus, how many years between abraham to jesus, adam to jesus timeline, years from adam to jesus, timeline of adam to jesus, how many years from adam to today, how many years since adam and eve, creation, christian creation
+Description: According to the Bible the timeline from Adam to Jesus spans several generations and significant events From Adam to Jesus there are approximately 4000 years This timeline includes key figures such as Abraham Moses and David leading up to the birth of Jesus Christ The genealogies in the Bible help
 ---
+
+
+
 **According to the Bible, the timeline from Adam to Jesus spans several generations and significant events. From Adam to Jesus, there are approximately 4,000 years. This timeline includes key figures such as Abraham, Moses, and David, leading up to the birth of Jesus Christ. The genealogies in the Bible help us trace this lineage from the first man, Adam, to the Savior, Jesus.**
 
 One biblical reference that supports this timeline is found in the book of [Matthew 1:17](https://www.bibleref.com/Matthew/1/Matthew-1-17.html), which states, "So all the generations from Abraham to David are fourteen generations, from David until the captivity in Babylon are fourteen generations, and from the captivity in Babylon until the Christ are fourteen generations." This verse highlights the generations leading up to the birth of Jesus, emphasizing the passage of time from Adam to Jesus.
